@@ -6,8 +6,8 @@ A collection of SQL projects completed during my internship, covering retail sal
 
 I'm an aspiring data analyst building hands-on experience translating raw transactional data into business insight through SQL, statistics, and visualization.
 
-- 🔍 Interests: Data Analysis, SQL, Fraud/Risk Analytics, DSA
-- 🛠️ Tools: PostgreSQL, VSCode, Git, GitHub, Python
+- 🔍 Interests: Data Analysis, SQL, DSA
+- 🛠️ Tools: PostgreSQL, VSCode, Git, GitHub
 - 📫 Contact: <aiyuvan07@gmail.com>
 
 ---
@@ -125,8 +125,8 @@ SQL_Internship/
 ├── Project_1.sql
 ├── Project_2.sql
 ├── Project_3.sql
-├── Assets/                     # Chart images referenced in this README
-├── results/                    # CSV exports of each query's output (used to build the charts)
+├── Assets/ # Chart images referenced in this README
+            # CSV exports of each query's output (used to build the charts)
 ├── accounts.csv
 ├── customers.csv
 ├── customers_e_commerce.csv
