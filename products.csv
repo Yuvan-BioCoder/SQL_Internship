@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_cost,unit_price,stock_quantity
+1,Sticky Notes,Office Supplies,26.19,60.25,360
+2,Stapler,Office Supplies,47.47,117.76,413
+3,Non-stick Pan Set,Home & Kitchen,99.13,129.8,418
+4,Notebook Set,Office Supplies,84.53,204.4,53
+5,Ballpoint Pens (Pack),Office Supplies,141.02,206.05,59
+6,Cutlery Set,Home & Kitchen,133.79,293.12,79
+7,Resistance Bands,Sports & Outdoors,43.04,87.19,367
+8,Winter Jacket,Apparel,53.4,113.47,436
+9,Storage Containers,Home & Kitchen,41.81,78.86,463
+10,Fishing Rod,Sports & Outdoors,136.5,185.77,324
+11,Water Bottle,Sports & Outdoors,65.27,106.52,1
+12,Baseball Cap,Apparel,52.03,75.81,134
+13,Bluetooth Speaker,Electronics,26.75,48.96,361
+14,Cycling Helmet,Sports & Outdoors,65.87,86.4,38
+15,Leather Belt,Apparel,141.92,302.18,76
+16,LED Desk Lamp,Home & Kitchen,83.2,191.49,298
+17,Wireless Mouse,Electronics,84.22,152.92,21
+18,Clipboard,Office Supplies,48.31,114.92,407
+19,Sports Socks,Apparel,145.91,196.67,183
+20,Vacuum Cleaner,Home & Kitchen,33.88,54.19,52
+21,Router,Electronics,54.99,108.43,447
+22,Sleeping Bag,Sports & Outdoors,62.74,128.29,79
+23,Rain Jacket,Apparel,139.09,220.33,83
+24,Camping Tent,Sports & Outdoors,146.5,332.98,451
+25,Coffee Maker,Home & Kitchen,63.61,96.38,473
+26,Webcam,Electronics,51.83,125.27,410
+27,Yoga Mat,Sports & Outdoors,101.48,221.44,127
+28,Air Fryer,Home & Kitchen,42.22,94.78,55
+29,Running Shoes,Apparel,59.23,79.75,240
+30,Denim Jeans,Apparel,35.7,81.39,235
+31,Smartwatch,Electronics,54.4,124.28,446
+32,Toaster,Home & Kitchen,36.46,48.43,98
+33,Cotton T-Shirt,Apparel,61.57,100.63,35
+34,Whiteboard,Office Supplies,145.13,237.28,328
+35,Formal Shirt,Apparel,77.88,164.75,431
+36,Jump Rope,Sports & Outdoors,81.82,198.58,59
+37,USB-C Cable,Electronics,131.92,212.85,297
+38,Printer Paper (Ream),Office Supplies,144.49,233.87,55
+39,Dumbbell Set,Sports & Outdoors,90.7,155.53,402
+40,File Folders,Office Supplies,49.11,99.57,261
+41,Portable Charger,Electronics,20.0,47.59,97
+42,Wool Sweater,Apparel,40.44,86.97,0
+43,Electric Kettle,Home & Kitchen,79.43,180.13,351
+44,Hiking Backpack,Sports & Outdoors,108.76,238.22,343
+45,Highlighters (Pack),Office Supplies,31.96,58.09,485
+46,Mechanical Keyboard,Electronics,100.64,170.71,160
+47,Blender,Home & Kitchen,100.52,145.71,460
+48,Noise Cancelling Headphones,Electronics,47.15,78.79,209
+49,Desk Organizer,Office Supplies,50.95,108.86,283
+50,Laptop Stand,Electronics,21.71,39.18,481

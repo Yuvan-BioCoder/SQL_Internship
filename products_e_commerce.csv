@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_cost,unit_price,stock_quantity
+1,Rain Jacket,Apparel,137.75,248.19,391
+2,Hair Dryer,Beauty,124.25,317.19,6
+3,Dumbbell Set,Sports & Outdoors,26.8,41.88,400
+4,LED Desk Lamp,Home & Kitchen,108.31,153.57,179
+5,Electric Trimmer,Beauty,14.69,24.88,384
+6,Smartwatch,Electronics,112.13,213.17,110
+7,Resistance Bands,Sports & Outdoors,148.65,225.41,443
+8,Blender,Home & Kitchen,33.26,57.74,595
+9,Yoga Mat,Sports & Outdoors,103.2,169.16,29
+10,Wi-Fi Router,Electronics,50.35,82.1,157
+11,Noise Cancelling Headphones,Electronics,135.26,265.0,244
+12,Nail Polish Set,Beauty,90.9,150.95,388
+13,Cutlery Set,Home & Kitchen,26.1,47.25,411
+14,Toaster Oven,Home & Kitchen,67.22,141.31,287
+15,Wireless Earbuds,Electronics,101.43,219.9,278
+16,Shampoo,Beauty,17.55,45.06,220
+17,Denim Jeans,Apparel,8.05,18.95,376
+18,Electric Kettle,Home & Kitchen,5.79,11.3,40
+19,Air Fryer,Home & Kitchen,61.53,115.28,460
+20,Cotton T-Shirt,Apparel,38.31,50.18,557
+21,Face Mask Pack,Beauty,24.74,63.45,194
+22,Cycling Helmet,Sports & Outdoors,69.75,171.78,378
+23,Perfume,Beauty,27.43,56.01,442
+24,Non-stick Pan Set,Home & Kitchen,80.82,110.23,192
+25,Winter Jacket,Apparel,64.32,157.41,250
+26,Coffee Maker,Home & Kitchen,36.09,84.56,598
+27,Formal Shirt,Apparel,139.0,340.36,18
+28,Storage Bins,Home & Kitchen,99.83,139.25,446
+29,Running Shoes,Apparel,135.25,307.15,192
+30,Webcam,Electronics,25.36,49.36,539
+31,Power Bank,Electronics,92.16,194.12,482
+32,Phone Case,Electronics,102.85,224.11,156
+33,Sports Socks,Apparel,42.65,75.02,305
+34,Laptop Stand,Electronics,97.08,127.37,72
+35,Hiking Backpack,Sports & Outdoors,101.22,156.11,100
+36,Robot Vacuum,Home & Kitchen,102.67,158.8,276
+37,Mechanical Keyboard,Electronics,54.8,82.79,599
+38,Wool Sweater,Apparel,75.77,165.56,409
+39,Baseball Cap,Apparel,26.25,37.68,367
+40,Jump Rope,Sports & Outdoors,82.17,150.45,198
+41,Sunscreen SPF50,Beauty,109.99,218.0,80
+42,Face Moisturizer,Beauty,50.72,80.38,514
+43,Fishing Rod,Sports & Outdoors,8.95,15.73,545
+44,Water Bottle,Sports & Outdoors,96.05,205.1,21
+45,Camping Tent,Sports & Outdoors,107.32,208.41,165
+46,Bluetooth Speaker,Electronics,130.04,243.69,19
+47,Makeup Brush Set,Beauty,136.24,297.46,222
+48,Lipstick Set,Beauty,103.1,220.86,546
+49,Leather Belt,Apparel,91.73,132.57,317
+50,Sleeping Bag,Sports & Outdoors,60.35,152.35,375

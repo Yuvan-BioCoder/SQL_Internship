@@ -1,0 +1,71 @@
+customer_id,first_name,last_name,email,city,country,signup_date
+1,William,Wilson,william.wilson1@example.com,Delhi,India,2023-10-13
+2,Charles,Thomas,charles.thomas2@example.com,Vancouver,Canada,2023-05-02
+3,Steven,Garcia,steven.garcia3@example.com,Madrid,Spain,2023-06-25
+4,Jessica,Sanchez,jessica.sanchez4@example.com,New York,USA,2022-01-15
+5,Lisa,Robinson,lisa.robinson5@example.com,Dubai,UAE,2023-03-15
+6,John,Jones,john.jones6@example.com,London,UK,2022-08-27
+7,Robert,Wilson,robert.wilson7@example.com,Delhi,India,2023-09-23
+8,Mark,Johnson,mark.johnson8@example.com,Melbourne,Australia,2023-07-08
+9,Ashley,Thompson,ashley.thompson9@example.com,Houston,USA,2023-10-27
+10,Lisa,Smith,lisa.smith10@example.com,Phoenix,USA,2022-04-01
+11,Linda,Sanchez,linda.sanchez11@example.com,New York,USA,2023-04-10
+12,William,Moore,william.moore12@example.com,Melbourne,Australia,2023-02-15
+13,Ashley,Jones,ashley.jones13@example.com,Toronto,Canada,2023-11-13
+14,Robert,Thomas,robert.thomas14@example.com,London,UK,2022-03-18
+15,Richard,Miller,richard.miller15@example.com,Dubai,UAE,2022-03-14
+16,Linda,Moore,linda.moore16@example.com,Paris,France,2023-07-27
+17,Matthew,Miller,matthew.miller17@example.com,Melbourne,Australia,2022-05-30
+18,Paul,Wilson,paul.wilson18@example.com,Sydney,Australia,2023-01-09
+19,Mark,Taylor,mark.taylor19@example.com,Bangalore,India,2022-11-22
+20,Ashley,Gonzalez,ashley.gonzalez20@example.com,Manchester,UK,2022-01-28
+21,Jennifer,Garcia,jennifer.garcia21@example.com,Paris,France,2022-01-03
+22,Ashley,Williams,ashley.williams22@example.com,Rome,Italy,2023-09-06
+23,Kimberly,Davis,kimberly.davis23@example.com,Dubai,UAE,2023-09-16
+24,Christopher,Moore,christopher.moore24@example.com,Singapore,Singapore,2022-04-26
+25,Barbara,Perez,barbara.perez25@example.com,Toronto,Canada,2023-10-04
+26,Daniel,Clark,daniel.clark26@example.com,Melbourne,Australia,2022-12-21
+27,Joshua,Robinson,joshua.robinson27@example.com,Sydney,Australia,2022-09-09
+28,Michael,Garcia,michael.garcia28@example.com,Chicago,USA,2022-06-28
+29,Margaret,Lopez,margaret.lopez29@example.com,Toronto,Canada,2023-12-01
+30,Robert,Perez,robert.perez30@example.com,Madrid,Spain,2023-11-05
+31,Jessica,Wilson,jessica.wilson31@example.com,Toronto,Canada,2023-08-28
+32,James,Lewis,james.lewis32@example.com,Mumbai,India,2023-05-18
+33,Steven,Gonzalez,steven.gonzalez33@example.com,London,UK,2022-09-09
+34,William,Moore,william.moore34@example.com,Chicago,USA,2023-03-26
+35,Anthony,Harris,anthony.harris35@example.com,Paris,France,2022-02-28
+36,Charles,Johnson,charles.johnson36@example.com,Manchester,UK,2023-11-06
+37,Charles,Johnson,charles.johnson37@example.com,Delhi,India,2022-09-12
+38,William,Gonzalez,william.gonzalez38@example.com,Chicago,USA,2022-12-13
+39,Elizabeth,Jones,elizabeth.jones39@example.com,Paris,France,2022-02-20
+40,Thomas,Jones,thomas.jones40@example.com,Madrid,Spain,2023-05-06
+41,Mary,Miller,mary.miller41@example.com,Mumbai,India,2022-06-07
+42,Lisa,Martin,lisa.martin42@example.com,Delhi,India,2023-05-12
+43,Donna,Lewis,donna.lewis43@example.com,Paris,France,2022-11-12
+44,David,Moore,david.moore44@example.com,Dubai,UAE,2022-10-10
+45,David,Harris,david.harris45@example.com,New York,USA,2023-01-27
+46,David,Thompson,david.thompson46@example.com,New York,USA,2022-09-28
+47,Donna,Hernandez,donna.hernandez47@example.com,London,UK,2023-08-22
+48,Anthony,Rodriguez,anthony.rodriguez48@example.com,Bangalore,India,2022-05-22
+49,David,Jones,david.jones49@example.com,Houston,USA,2023-02-11
+50,Michael,Garcia,michael.garcia50@example.com,New York,USA,2023-10-20
+51,Mark,Sanchez,mark.sanchez51@example.com,Phoenix,USA,2022-03-15
+52,Linda,Lee,linda.lee52@example.com,Sydney,Australia,2022-05-10
+53,Karen,Moore,karen.moore53@example.com,Melbourne,Australia,2023-02-10
+54,Ashley,Lewis,ashley.lewis54@example.com,London,UK,2023-09-29
+55,William,Garcia,william.garcia55@example.com,Toronto,Canada,2023-01-22
+56,Richard,Thompson,richard.thompson56@example.com,Rome,Italy,2022-02-17
+57,Joshua,Thompson,joshua.thompson57@example.com,Madrid,Spain,2022-02-28
+58,James,Gonzalez,james.gonzalez58@example.com,Berlin,Germany,2022-03-07
+59,Betty,Harris,betty.harris59@example.com,Dubai,UAE,2022-06-29
+60,Joseph,Rodriguez,joseph.rodriguez60@example.com,Singapore,Singapore,2022-11-18
+61,Robert,Davis,robert.davis61@example.com,Bangalore,India,2022-06-09
+62,Karen,White,karen.white62@example.com,Sydney,Australia,2023-05-31
+63,Emily,Thomas,emily.thomas63@example.com,Dubai,UAE,2022-04-11
+64,Paul,Martin,paul.martin64@example.com,Los Angeles,USA,2023-06-05
+65,Joshua,White,joshua.white65@example.com,Melbourne,Australia,2023-06-14
+66,Karen,Martinez,karen.martinez66@example.com,Singapore,Singapore,2023-06-23
+67,Emily,Miller,emily.miller67@example.com,Chicago,USA,2023-09-24
+68,Christopher,Miller,christopher.miller68@example.com,Mumbai,India,2022-03-08
+69,Christopher,Perez,christopher.perez69@example.com,Delhi,India,2022-04-21
+70,John,Lee,john.lee70@example.com,Chicago,USA,2023-10-04

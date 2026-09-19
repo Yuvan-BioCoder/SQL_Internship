@@ -1,0 +1,1401 @@
+session_id,customer_id,session_date,device_type,traffic_source,converted,order_id
+1,22,2023-11-06 07:03:15,Desktop,Social Media,False,
+2,15,2023-06-04 19:19:31,Tablet,Direct,False,
+3,48,2023-11-02 17:09:40,Desktop,Email Campaign,True,113
+4,,2023-08-01 15:43:46,Tablet,Organic Search,False,
+5,69,2023-12-27 17:15:33,Desktop,Social Media,False,
+6,,2023-10-23 00:26:00,Mobile,Referral,False,
+7,2,2023-08-04 18:14:19,Mobile,Organic Search,False,
+8,51,2023-05-27 11:54:12,Desktop,Email Campaign,True,137
+9,59,2023-09-29 15:03:58,Tablet,Email Campaign,False,
+10,,2023-04-14 17:23:33,Tablet,Organic Search,False,
+11,20,2023-01-13 16:01:56,Mobile,Direct,False,
+12,,2023-10-06 11:38:16,Tablet,Referral,False,
+13,,2023-06-27 13:33:50,Desktop,Organic Search,False,
+14,28,2023-11-16 15:28:13,Mobile,Direct,False,
+15,61,2023-04-02 19:56:55,Desktop,Referral,True,174
+16,60,2023-08-14 20:44:15,Tablet,Paid Ads,False,
+17,2,2023-06-28 13:51:36,Tablet,Social Media,False,
+18,,2023-10-01 18:01:42,Tablet,Paid Ads,False,
+19,1,2023-11-25 06:11:22,Mobile,Referral,True,31
+20,,2023-10-19 14:35:19,Desktop,Social Media,False,
+21,53,2023-07-14 19:28:46,Mobile,Social Media,False,
+22,,2023-12-06 18:26:39,Tablet,Social Media,False,
+23,5,2023-11-01 17:51:39,Desktop,Organic Search,False,
+24,3,2023-10-23 21:44:18,Tablet,Email Campaign,False,
+25,31,2023-09-03 20:20:20,Desktop,Social Media,False,
+26,3,2023-07-24 02:45:09,Tablet,Paid Ads,False,
+27,19,2023-08-28 22:15:53,Mobile,Email Campaign,True,308
+28,8,2023-07-18 21:51:09,Desktop,Social Media,False,
+29,8,2023-11-29 19:17:22,Mobile,Direct,True,74
+30,52,2023-05-01 22:15:48,Tablet,Social Media,False,
+31,20,2023-06-23 11:43:08,Desktop,Paid Ads,False,
+32,,2023-10-21 13:02:46,Desktop,Direct,False,
+33,36,2023-11-27 18:13:36,Desktop,Paid Ads,False,
+34,1,2023-10-31 15:22:35,Desktop,Social Media,False,
+35,13,2023-12-17 12:45:01,Tablet,Referral,True,291
+36,69,2023-10-04 20:25:27,Desktop,Organic Search,False,
+37,11,2023-10-14 09:12:30,Tablet,Email Campaign,False,
+38,50,2023-11-05 11:23:01,Tablet,Direct,False,
+39,31,2023-11-24 18:07:04,Tablet,Social Media,True,72
+40,54,2023-12-01 20:42:25,Desktop,Direct,False,
+41,51,2023-01-14 15:42:22,Tablet,Referral,False,
+42,1,2023-11-22 15:18:58,Tablet,Social Media,False,
+43,29,2023-12-08 20:30:39,Desktop,Social Media,False,
+44,,2023-12-01 21:39:52,Mobile,Organic Search,False,
+45,43,2023-04-25 14:45:55,Tablet,Paid Ads,True,191
+46,64,2023-06-18 18:13:36,Mobile,Email Campaign,False,
+47,38,2023-10-16 22:04:34,Desktop,Direct,True,41
+48,20,2023-10-31 15:21:50,Tablet,Referral,True,119
+49,,2023-08-11 11:03:26,Tablet,Referral,False,
+50,,2023-07-12 18:31:49,Tablet,Social Media,False,
+51,14,2023-01-01 18:36:28,Desktop,Email Campaign,False,
+52,66,2023-12-06 19:00:24,Tablet,Paid Ads,False,
+53,,2023-07-24 08:55:43,Desktop,Email Campaign,False,
+54,63,2023-11-22 20:42:38,Desktop,Direct,True,306
+55,9,2023-12-11 18:00:04,Tablet,Organic Search,True,343
+56,45,2023-08-16 15:15:41,Desktop,Referral,False,
+57,,2023-07-24 15:25:30,Desktop,Referral,False,
+58,61,2023-08-22 12:01:32,Mobile,Email Campaign,False,
+59,68,2023-11-04 22:28:08,Tablet,Social Media,False,
+60,28,2023-09-09 02:29:46,Desktop,Organic Search,True,176
+61,59,2023-09-30 17:09:21,Tablet,Direct,True,362
+62,,2023-07-18 16:09:48,Desktop,Social Media,False,
+63,46,2023-11-22 10:16:08,Desktop,Email Campaign,False,
+64,35,2023-04-19 19:02:49,Desktop,Organic Search,True,25
+65,16,2023-11-18 15:31:36,Tablet,Social Media,False,
+66,60,2023-06-09 17:53:11,Tablet,Paid Ads,False,
+67,57,2023-10-14 17:30:50,Tablet,Social Media,False,
+68,46,2023-11-13 22:24:54,Tablet,Direct,False,
+69,,2023-01-02 23:25:27,Tablet,Social Media,False,
+70,65,2023-09-09 14:03:21,Mobile,Email Campaign,True,314
+71,57,2023-10-25 20:09:38,Tablet,Paid Ads,True,400
+72,56,2023-02-02 13:30:42,Tablet,Paid Ads,False,
+73,52,2023-12-23 14:12:22,Mobile,Organic Search,False,
+74,9,2023-12-19 10:32:01,Tablet,Paid Ads,False,
+75,,2023-06-22 11:15:08,Mobile,Email Campaign,False,
+76,53,2023-08-29 12:44:25,Desktop,Referral,False,
+77,9,2023-12-06 15:40:51,Tablet,Direct,True,165
+78,,2023-11-01 19:56:44,Mobile,Referral,False,
+79,24,2023-07-03 16:18:20,Desktop,Organic Search,True,109
+80,45,2023-10-14 18:03:56,Desktop,Referral,False,
+81,67,2023-12-14 15:58:13,Tablet,Social Media,False,
+82,33,2023-10-24 19:51:54,Tablet,Organic Search,False,
+83,64,2023-12-23 15:46:01,Mobile,Referral,False,
+84,7,2023-12-11 09:31:09,Desktop,Direct,False,
+85,,2023-02-10 17:11:48,Tablet,Direct,False,
+86,40,2023-10-15 14:28:08,Tablet,Direct,True,130
+87,34,2023-04-24 12:48:30,Mobile,Referral,False,
+88,50,2023-12-20 12:00:58,Desktop,Organic Search,True,184
+89,61,2023-08-04 17:11:19,Mobile,Referral,False,
+90,63,2023-02-08 17:57:41,Desktop,Referral,False,
+91,,2023-01-10 18:56:23,Desktop,Organic Search,False,
+92,8,2023-08-07 17:08:21,Desktop,Social Media,True,249
+93,67,2023-10-13 21:49:01,Tablet,Social Media,False,
+94,13,2023-12-17 13:30:07,Desktop,Referral,False,
+95,28,2023-03-04 08:10:43,Tablet,Email Campaign,True,358
+96,,2023-05-30 09:05:19,Desktop,Email Campaign,False,
+97,,2023-11-21 17:01:20,Tablet,Direct,False,
+98,53,2023-04-03 14:23:44,Tablet,Referral,False,
+99,21,2023-06-24 17:41:03,Mobile,Organic Search,False,
+100,2,2023-10-08 10:05:14,Tablet,Referral,True,14
+101,40,2023-05-15 18:26:54,Mobile,Referral,False,
+102,24,2023-10-02 11:15:13,Desktop,Email Campaign,False,
+103,58,2023-02-16 08:02:03,Desktop,Referral,True,96
+104,40,2023-07-01 20:41:11,Mobile,Email Campaign,True,155
+105,24,2023-10-24 16:09:01,Tablet,Referral,True,326
+106,47,2023-09-04 12:14:55,Mobile,Social Media,True,310
+107,38,2023-07-31 18:42:50,Desktop,Social Media,False,
+108,6,2023-12-19 19:20:26,Mobile,Direct,True,151
+109,58,2023-10-01 19:44:36,Tablet,Referral,False,
+110,31,2023-09-10 07:48:11,Tablet,Social Media,True,395
+111,53,2023-11-07 15:54:48,Mobile,Social Media,False,
+112,35,2023-01-05 20:17:58,Tablet,Email Campaign,False,
+113,57,2023-02-02 17:29:20,Mobile,Organic Search,True,316
+114,19,2023-02-07 19:09:26,Desktop,Email Campaign,False,
+115,,2023-05-18 20:22:52,Desktop,Email Campaign,False,
+116,33,2023-04-15 16:04:41,Mobile,Email Campaign,False,
+117,,2023-10-22 12:48:06,Tablet,Direct,False,
+118,,2023-07-29 21:02:02,Tablet,Direct,False,
+119,,2023-04-11 06:54:46,Desktop,Direct,False,
+120,,2023-09-27 14:08:28,Desktop,Social Media,False,
+121,64,2023-10-08 22:51:50,Mobile,Social Media,False,
+122,,2023-06-13 20:27:39,Tablet,Email Campaign,False,
+123,1,2023-12-04 22:21:41,Tablet,Referral,False,
+124,25,2023-12-28 18:52:30,Tablet,Organic Search,True,378
+125,6,2023-03-01 11:42:56,Tablet,Organic Search,True,141
+126,60,2023-11-04 21:39:01,Desktop,Paid Ads,False,
+127,46,2023-06-01 17:01:29,Desktop,Organic Search,False,
+128,40,2023-07-03 16:27:32,Tablet,Paid Ads,True,300
+129,,2023-01-25 10:21:32,Desktop,Email Campaign,False,
+130,31,2023-09-03 19:10:57,Desktop,Organic Search,False,
+131,,2023-10-04 15:06:59,Desktop,Referral,False,
+132,,2023-07-04 13:51:21,Desktop,Email Campaign,False,
+133,44,2023-09-22 23:16:22,Desktop,Referral,False,
+134,27,2023-08-28 13:47:49,Desktop,Email Campaign,False,
+135,22,2023-12-22 16:45:31,Tablet,Referral,False,
+136,9,2023-11-30 15:44:37,Desktop,Organic Search,False,
+137,50,2023-11-06 19:02:43,Mobile,Social Media,False,
+138,63,2023-03-08 12:52:20,Desktop,Email Campaign,False,
+139,,2023-06-23 00:44:22,Desktop,Organic Search,False,
+140,8,2023-07-17 08:59:53,Mobile,Paid Ads,False,
+141,46,2023-02-07 16:18:33,Mobile,Social Media,False,
+142,45,2023-02-26 11:21:11,Mobile,Email Campaign,True,79
+143,48,2023-02-27 17:44:11,Desktop,Social Media,False,
+144,,2023-12-02 20:11:56,Mobile,Paid Ads,False,
+145,40,2023-11-26 12:22:27,Tablet,Referral,False,
+146,16,2023-10-13 20:21:14,Mobile,Direct,False,
+147,53,2023-07-08 16:44:48,Desktop,Direct,True,253
+148,15,2023-05-05 09:57:26,Desktop,Paid Ads,False,
+149,48,2023-05-03 15:18:55,Desktop,Organic Search,False,
+150,53,2023-12-08 13:53:36,Desktop,Paid Ads,False,
+151,70,2023-12-28 19:28:57,Desktop,Organic Search,False,
+152,50,2023-11-30 13:19:05,Tablet,Paid Ads,False,
+153,14,2023-05-25 20:36:36,Tablet,Email Campaign,False,
+154,50,2023-12-25 21:29:17,Mobile,Referral,True,204
+155,44,2023-08-04 22:18:14,Desktop,Social Media,False,
+156,,2023-02-22 21:59:20,Desktop,Referral,False,
+157,31,2023-11-17 12:07:23,Desktop,Email Campaign,True,100
+158,,2023-12-04 03:17:50,Tablet,Organic Search,False,
+159,9,2023-11-30 14:58:30,Tablet,Direct,False,
+160,11,2023-05-16 11:59:37,Desktop,Social Media,False,
+161,,2023-01-12 18:05:37,Tablet,Direct,False,
+162,29,2023-12-15 22:35:30,Mobile,Email Campaign,False,
+163,1,2023-12-05 12:37:37,Mobile,Referral,False,
+164,30,2023-12-09 18:37:12,Mobile,Paid Ads,False,
+165,12,2023-02-18 09:32:22,Mobile,Direct,False,
+166,42,2023-05-26 19:42:15,Mobile,Organic Search,False,
+167,37,2023-12-24 15:12:28,Tablet,Referral,False,
+168,48,2023-08-19 18:20:58,Tablet,Direct,False,
+169,3,2023-07-02 21:33:54,Tablet,Email Campaign,False,
+170,67,2023-12-22 14:14:17,Tablet,Organic Search,False,
+171,,2023-01-30 09:49:09,Mobile,Paid Ads,False,
+172,13,2023-12-30 01:35:37,Tablet,Email Campaign,True,135
+173,,2023-12-15 03:02:53,Mobile,Direct,False,
+174,68,2023-10-04 21:37:45,Mobile,Paid Ads,False,
+175,49,2023-07-10 12:27:27,Mobile,Direct,False,
+176,61,2023-02-14 04:30:54,Tablet,Social Media,True,214
+177,,2023-10-26 18:00:12,Desktop,Referral,False,
+178,5,2023-05-24 21:38:29,Desktop,Email Campaign,False,
+179,19,2023-05-23 16:48:09,Tablet,Referral,False,
+180,10,2023-09-21 18:12:28,Mobile,Paid Ads,True,369
+181,47,2023-12-26 15:23:09,Mobile,Social Media,False,
+182,24,2023-01-08 18:10:55,Tablet,Paid Ads,True,212
+183,12,2023-11-17 22:24:55,Mobile,Organic Search,True,126
+184,,2023-07-21 19:39:58,Desktop,Referral,False,
+185,37,2023-01-30 12:10:26,Tablet,Direct,True,10
+186,,2023-03-03 15:00:43,Mobile,Paid Ads,False,
+187,,2023-08-13 22:28:36,Mobile,Paid Ads,False,
+188,25,2023-12-13 19:50:42,Mobile,Direct,False,
+189,19,2023-12-28 10:56:54,Tablet,Social Media,False,
+190,58,2023-07-08 17:59:06,Tablet,Direct,True,348
+191,28,2023-01-04 13:01:41,Mobile,Email Campaign,False,
+192,,2023-10-28 17:32:09,Desktop,Email Campaign,False,
+193,25,2023-12-26 10:55:27,Desktop,Referral,True,4
+194,,2023-11-05 11:56:42,Desktop,Referral,False,
+195,,2023-05-22 11:07:42,Desktop,Social Media,False,
+196,48,2023-08-22 08:53:30,Desktop,Email Campaign,False,
+197,7,2023-11-08 19:29:50,Tablet,Email Campaign,False,
+198,13,2023-11-24 20:27:25,Mobile,Paid Ads,False,
+199,35,2023-09-30 18:21:54,Tablet,Paid Ads,False,
+200,,2023-03-07 20:51:47,Desktop,Email Campaign,False,
+201,20,2023-12-21 21:58:05,Mobile,Paid Ads,False,
+202,30,2023-11-30 13:08:07,Mobile,Organic Search,False,
+203,48,2023-12-08 09:25:56,Desktop,Paid Ads,True,292
+204,61,2023-11-19 19:24:51,Desktop,Direct,False,
+205,,2023-09-15 19:18:15,Tablet,Direct,False,
+206,36,2023-12-30 19:03:23,Desktop,Paid Ads,True,81
+207,,2023-08-30 15:22:11,Mobile,Paid Ads,False,
+208,23,2023-10-20 20:07:28,Tablet,Social Media,True,185
+209,26,2023-11-16 12:18:24,Tablet,Email Campaign,True,232
+210,4,2023-11-18 20:08:52,Desktop,Paid Ads,True,319
+211,5,2023-04-14 08:47:05,Desktop,Paid Ads,True,334
+212,,2023-06-05 18:02:03,Tablet,Referral,False,
+213,38,2023-07-12 14:25:42,Tablet,Email Campaign,True,43
+214,,2023-02-03 09:04:21,Mobile,Paid Ads,False,
+215,41,2023-10-12 18:19:35,Tablet,Email Campaign,True,227
+216,41,2023-07-07 19:42:52,Tablet,Email Campaign,False,
+217,18,2023-06-20 13:09:18,Desktop,Email Campaign,False,
+218,50,2023-12-02 09:00:13,Mobile,Direct,True,47
+219,47,2023-11-02 19:34:31,Mobile,Social Media,False,
+220,47,2023-12-14 20:14:34,Desktop,Referral,False,
+221,41,2023-05-28 13:46:16,Desktop,Direct,True,217
+222,68,2023-02-20 15:40:08,Mobile,Email Campaign,False,
+223,,2023-04-11 13:31:23,Mobile,Referral,False,
+224,68,2023-04-26 20:44:45,Desktop,Paid Ads,True,374
+225,28,2023-02-05 06:59:22,Desktop,Email Campaign,False,
+226,66,2023-09-23 17:31:47,Tablet,Direct,False,
+227,,2023-02-15 11:30:40,Desktop,Direct,False,
+228,12,2023-06-04 07:51:42,Desktop,Organic Search,False,
+229,42,2023-07-29 16:32:20,Tablet,Direct,False,
+230,16,2023-09-22 17:55:43,Desktop,Email Campaign,False,
+231,60,2023-11-11 20:13:13,Tablet,Social Media,True,280
+232,,2023-10-31 18:55:00,Mobile,Organic Search,False,
+233,,2023-01-18 17:26:18,Desktop,Email Campaign,False,
+234,44,2023-12-11 17:22:43,Mobile,Social Media,False,
+235,40,2023-09-18 16:50:02,Tablet,Paid Ads,False,
+236,56,2023-12-24 14:19:54,Tablet,Organic Search,True,42
+237,55,2023-10-08 22:28:13,Mobile,Social Media,False,
+238,48,2023-01-01 13:06:44,Mobile,Direct,False,
+239,2,2023-10-20 12:10:42,Mobile,Social Media,False,
+240,,2023-06-20 15:22:27,Desktop,Social Media,False,
+241,,2023-04-21 18:39:08,Mobile,Paid Ads,False,
+242,59,2023-08-27 20:12:29,Mobile,Direct,False,
+243,,2023-07-16 21:13:18,Mobile,Direct,False,
+244,20,2023-11-13 21:16:34,Mobile,Referral,False,
+245,17,2023-10-27 20:56:50,Desktop,Email Campaign,False,
+246,21,2023-07-28 22:43:46,Desktop,Email Campaign,False,
+247,,2023-08-10 17:14:01,Mobile,Paid Ads,False,
+248,25,2023-11-14 17:19:41,Desktop,Organic Search,False,
+249,,2023-02-27 18:06:03,Tablet,Paid Ads,False,
+250,4,2023-09-14 17:16:08,Tablet,Referral,True,220
+251,66,2023-10-02 17:40:56,Mobile,Paid Ads,False,
+252,12,2023-07-07 09:04:20,Desktop,Paid Ads,False,
+253,,2023-01-07 17:47:18,Desktop,Paid Ads,False,
+254,51,2023-04-24 13:14:49,Tablet,Paid Ads,True,102
+255,43,2023-06-04 01:19:04,Desktop,Email Campaign,False,
+256,69,2023-10-18 11:58:48,Tablet,Social Media,False,
+257,64,2023-06-16 20:17:51,Desktop,Paid Ads,True,17
+258,64,2023-08-31 17:51:54,Mobile,Direct,False,
+259,26,2023-02-26 19:09:31,Tablet,Paid Ads,False,
+260,53,2023-10-03 19:34:39,Tablet,Social Media,False,
+261,8,2023-08-26 21:07:34,Desktop,Paid Ads,True,278
+262,3,2023-09-22 14:03:35,Desktop,Email Campaign,False,
+263,19,2023-11-21 13:21:44,Desktop,Email Campaign,False,
+264,2,2023-07-09 11:39:10,Tablet,Social Media,False,
+265,26,2023-02-08 13:25:38,Tablet,Paid Ads,False,
+266,,2023-05-24 16:01:32,Tablet,Organic Search,False,
+267,27,2023-12-03 14:49:42,Desktop,Paid Ads,False,
+268,27,2023-02-27 09:26:41,Tablet,Referral,True,242
+269,25,2023-11-02 06:59:35,Mobile,Email Campaign,False,
+270,51,2023-01-06 10:07:23,Tablet,Paid Ads,False,
+271,,2023-06-14 20:16:09,Tablet,Organic Search,False,
+272,65,2023-07-28 11:36:48,Mobile,Referral,False,
+273,13,2023-11-29 18:16:10,Tablet,Email Campaign,False,
+274,,2023-04-02 17:01:15,Mobile,Direct,False,
+275,22,2023-10-31 13:18:00,Mobile,Direct,False,
+276,,2023-04-07 23:56:50,Desktop,Direct,False,
+277,,2023-12-27 13:57:29,Desktop,Referral,False,
+278,27,2023-07-03 15:59:02,Desktop,Direct,False,
+279,5,2023-12-13 09:56:43,Desktop,Referral,True,140
+280,51,2023-02-01 17:01:00,Desktop,Direct,True,264
+281,43,2023-08-03 19:20:06,Mobile,Paid Ads,True,237
+282,14,2023-10-04 12:09:26,Tablet,Organic Search,True,268
+283,18,2023-09-15 13:43:05,Tablet,Paid Ads,False,
+284,,2023-04-29 08:27:12,Mobile,Referral,False,
+285,,2023-12-27 14:08:14,Tablet,Email Campaign,False,
+286,33,2023-04-15 21:32:25,Desktop,Social Media,False,
+287,39,2023-12-18 16:26:22,Tablet,Direct,False,
+288,9,2023-12-28 12:48:38,Tablet,Paid Ads,True,353
+289,43,2023-06-14 01:08:27,Desktop,Direct,False,
+290,28,2023-11-26 16:36:58,Tablet,Organic Search,False,
+291,43,2023-11-24 14:24:24,Mobile,Direct,False,
+292,29,2023-12-16 13:51:56,Tablet,Organic Search,True,266
+293,4,2023-12-21 14:50:26,Desktop,Paid Ads,True,143
+294,35,2023-11-02 17:51:04,Desktop,Paid Ads,False,
+295,,2023-12-11 14:22:32,Tablet,Direct,False,
+296,2,2023-05-30 09:49:30,Tablet,Social Media,False,
+297,29,2023-12-19 15:10:21,Desktop,Organic Search,False,
+298,26,2023-12-20 16:46:17,Desktop,Paid Ads,False,
+299,,2023-12-31 12:06:53,Tablet,Direct,False,
+300,70,2023-12-26 17:22:41,Tablet,Email Campaign,False,
+301,40,2023-05-19 11:50:28,Tablet,Organic Search,True,298
+302,42,2023-06-09 12:19:35,Tablet,Referral,False,
+303,21,2023-07-24 10:34:25,Tablet,Organic Search,False,
+304,,2023-08-22 13:04:11,Tablet,Paid Ads,False,
+305,55,2023-09-11 17:20:46,Desktop,Organic Search,False,
+306,68,2023-03-11 12:17:22,Mobile,Direct,False,
+307,28,2023-10-25 11:08:36,Tablet,Social Media,False,
+308,16,2023-10-01 04:01:42,Mobile,Direct,False,
+309,58,2023-07-07 18:48:58,Desktop,Direct,True,83
+310,22,2023-09-27 00:29:40,Desktop,Paid Ads,False,
+311,64,2023-06-20 13:50:25,Mobile,Email Campaign,True,387
+312,34,2023-05-01 09:58:53,Desktop,Social Media,True,61
+313,69,2023-07-11 16:29:49,Desktop,Referral,False,
+314,1,2023-12-12 16:18:10,Mobile,Social Media,True,122
+315,6,2023-08-14 20:31:06,Mobile,Email Campaign,False,
+316,27,2023-01-05 19:37:34,Tablet,Organic Search,True,379
+317,5,2023-04-07 14:52:14,Tablet,Social Media,False,
+318,,2023-06-23 15:56:09,Mobile,Email Campaign,False,
+319,3,2023-08-03 14:28:59,Mobile,Direct,True,384
+320,,2023-08-01 15:34:18,Tablet,Social Media,False,
+321,25,2023-12-09 12:22:16,Tablet,Email Campaign,True,336
+322,,2023-03-19 12:07:06,Mobile,Social Media,False,
+323,35,2023-04-18 11:56:30,Tablet,Referral,False,
+324,59,2023-05-30 21:19:53,Mobile,Direct,False,
+325,49,2023-06-15 11:27:05,Tablet,Email Campaign,False,
+326,57,2023-09-12 10:56:42,Mobile,Direct,True,219
+327,54,2023-09-29 10:10:20,Tablet,Direct,True,177
+328,58,2023-05-23 19:44:37,Mobile,Email Campaign,True,200
+329,48,2023-02-13 13:59:18,Mobile,Paid Ads,False,
+330,14,2023-01-23 19:44:41,Mobile,Referral,True,243
+331,41,2023-12-07 21:54:59,Tablet,Organic Search,False,
+332,21,2023-12-08 22:46:11,Mobile,Email Campaign,False,
+333,43,2023-06-11 17:08:48,Desktop,Referral,False,
+334,61,2023-02-23 14:07:29,Mobile,Paid Ads,False,
+335,63,2023-10-23 12:33:58,Mobile,Referral,True,213
+336,11,2023-05-23 06:57:21,Desktop,Social Media,True,173
+337,62,2023-09-28 21:40:48,Desktop,Organic Search,True,349
+338,10,2023-12-09 21:19:42,Mobile,Direct,False,
+339,63,2023-08-14 02:37:14,Mobile,Referral,False,
+340,50,2023-11-20 20:09:02,Mobile,Direct,True,118
+341,,2023-02-20 07:07:13,Tablet,Referral,False,
+342,70,2023-10-06 02:23:26,Mobile,Email Campaign,True,146
+343,36,2023-11-09 16:54:02,Tablet,Organic Search,False,
+344,17,2023-03-02 09:27:20,Desktop,Organic Search,False,
+345,16,2023-08-22 11:36:02,Mobile,Social Media,True,363
+346,44,2023-03-24 06:43:16,Desktop,Direct,False,
+347,29,2023-12-20 16:48:13,Desktop,Referral,True,16
+348,50,2023-11-21 12:51:46,Mobile,Referral,False,
+349,46,2023-02-15 08:01:03,Mobile,Social Media,False,
+350,23,2023-12-04 20:45:17,Mobile,Social Media,False,
+351,4,2023-09-10 16:26:15,Desktop,Referral,False,
+352,,2023-01-05 17:36:26,Desktop,Direct,False,
+353,48,2023-03-20 13:52:29,Tablet,Direct,False,
+354,36,2023-11-21 13:10:23,Desktop,Referral,True,125
+355,11,2023-09-03 20:06:26,Tablet,Direct,False,
+356,,2023-08-07 13:40:09,Desktop,Social Media,False,
+357,50,2023-11-06 16:02:57,Tablet,Referral,False,
+358,52,2023-07-02 17:42:52,Tablet,Organic Search,True,331
+359,14,2023-12-22 14:03:49,Mobile,Social Media,False,
+360,35,2023-09-22 20:33:18,Mobile,Referral,False,
+361,21,2023-09-04 15:33:36,Desktop,Email Campaign,True,120
+362,38,2023-07-11 16:25:52,Desktop,Email Campaign,True,385
+363,19,2023-08-24 17:23:14,Mobile,Email Campaign,False,
+364,61,2023-01-10 21:24:39,Desktop,Email Campaign,True,205
+365,2,2023-07-19 12:17:01,Desktop,Email Campaign,False,
+366,52,2023-05-07 21:56:48,Tablet,Social Media,False,
+367,,2023-09-11 07:55:17,Desktop,Social Media,False,
+368,,2023-10-19 09:17:27,Mobile,Paid Ads,False,
+369,31,2023-12-24 16:03:14,Tablet,Referral,False,
+370,30,2023-12-14 00:39:35,Desktop,Paid Ads,False,
+371,66,2023-08-09 14:23:09,Mobile,Organic Search,False,
+372,25,2023-12-31 01:13:49,Tablet,Paid Ads,False,
+373,53,2023-10-24 18:31:22,Tablet,Social Media,False,
+374,,2023-12-21 23:25:11,Tablet,Email Campaign,False,
+375,69,2023-07-04 21:43:16,Mobile,Paid Ads,False,
+376,62,2023-07-03 14:00:53,Mobile,Social Media,True,181
+377,14,2023-10-27 19:17:55,Mobile,Paid Ads,True,340
+378,4,2023-01-25 13:36:02,Mobile,Referral,False,
+379,,2023-07-25 14:41:31,Mobile,Paid Ads,False,
+380,,2023-08-12 15:45:46,Desktop,Social Media,False,
+381,61,2023-08-31 16:12:08,Desktop,Paid Ads,True,305
+382,54,2023-10-15 12:18:38,Tablet,Referral,False,
+383,23,2023-11-22 19:41:44,Desktop,Referral,False,
+384,8,2023-11-12 20:36:44,Tablet,Organic Search,True,106
+385,5,2023-08-25 12:57:00,Desktop,Paid Ads,False,
+386,20,2023-07-17 08:25:41,Mobile,Organic Search,True,149
+387,66,2023-09-01 11:44:37,Tablet,Paid Ads,True,364
+388,62,2023-12-25 19:48:52,Mobile,Organic Search,True,145
+389,,2023-10-08 01:18:39,Desktop,Organic Search,False,
+390,,2023-02-08 17:08:22,Mobile,Referral,False,
+391,29,2023-12-03 06:57:00,Desktop,Organic Search,True,91
+392,29,2023-12-29 18:38:48,Tablet,Organic Search,True,129
+393,50,2023-12-25 09:06:35,Mobile,Email Campaign,False,
+394,12,2023-06-20 12:36:57,Mobile,Direct,False,
+395,,2023-05-22 15:54:07,Mobile,Organic Search,False,
+396,6,2023-06-01 15:44:07,Tablet,Referral,False,
+397,68,2023-05-01 07:53:49,Desktop,Direct,False,
+398,,2023-05-23 18:24:45,Desktop,Direct,False,
+399,4,2023-11-13 12:53:27,Mobile,Direct,False,
+400,37,2023-06-07 21:59:01,Mobile,Paid Ads,False,
+401,65,2023-08-27 19:22:03,Desktop,Social Media,False,
+402,50,2023-10-28 17:28:56,Mobile,Direct,True,225
+403,36,2023-12-14 22:42:46,Tablet,Paid Ads,True,142
+404,,2023-08-20 13:58:25,Mobile,Referral,False,
+405,32,2023-09-04 19:15:33,Tablet,Referral,False,
+406,,2023-05-31 11:52:54,Tablet,Organic Search,False,
+407,36,2023-12-19 12:02:15,Desktop,Paid Ads,True,289
+408,29,2023-12-25 20:44:16,Desktop,Direct,False,
+409,41,2023-02-16 14:57:51,Tablet,Organic Search,True,255
+410,,2023-01-23 20:12:26,Mobile,Organic Search,False,
+411,35,2023-03-21 11:09:37,Mobile,Paid Ads,False,
+412,16,2023-09-30 15:00:04,Tablet,Email Campaign,False,
+413,65,2023-11-11 14:56:42,Desktop,Paid Ads,False,
+414,46,2023-06-05 21:47:54,Desktop,Direct,False,
+415,10,2023-08-14 21:43:09,Desktop,Paid Ads,False,
+416,,2023-04-23 19:45:30,Desktop,Direct,False,
+417,,2023-09-16 13:04:54,Desktop,Organic Search,False,
+418,16,2023-09-01 11:02:37,Desktop,Social Media,True,167
+419,63,2023-06-23 10:59:32,Tablet,Referral,False,
+420,58,2023-11-21 21:36:32,Desktop,Email Campaign,False,
+421,34,2023-11-09 03:03:00,Desktop,Paid Ads,True,313
+422,62,2023-08-31 15:23:36,Mobile,Social Media,False,
+423,51,2023-05-20 11:45:55,Mobile,Email Campaign,False,
+424,44,2023-10-01 15:08:45,Mobile,Social Media,False,
+425,66,2023-10-21 13:52:45,Mobile,Direct,False,
+426,9,2023-11-22 12:24:09,Mobile,Paid Ads,True,216
+427,24,2023-05-24 11:09:15,Desktop,Paid Ads,True,309
+428,14,2023-03-21 08:13:25,Desktop,Social Media,True,187
+429,,2023-03-06 15:21:54,Desktop,Social Media,False,
+430,3,2023-12-29 11:58:34,Desktop,Direct,False,
+431,53,2023-07-20 17:23:22,Tablet,Organic Search,True,37
+432,70,2023-12-03 22:54:44,Tablet,Organic Search,False,
+433,13,2023-12-13 10:40:05,Desktop,Direct,False,
+434,8,2023-09-13 20:17:28,Tablet,Referral,True,239
+435,41,2023-12-30 06:36:47,Tablet,Direct,False,
+436,12,2023-11-01 18:55:32,Mobile,Referral,True,163
+437,45,2023-09-05 19:31:16,Desktop,Paid Ads,False,
+438,32,2023-11-12 06:16:28,Tablet,Referral,True,371
+439,,2023-08-07 06:36:25,Desktop,Paid Ads,False,
+440,,2023-05-18 21:53:46,Desktop,Direct,False,
+441,48,2023-01-04 18:46:59,Mobile,Paid Ads,True,342
+442,50,2023-11-20 19:23:53,Desktop,Paid Ads,False,
+443,,2023-07-04 15:46:51,Tablet,Direct,False,
+444,23,2023-12-21 11:46:37,Mobile,Direct,False,
+445,58,2023-07-05 21:10:25,Mobile,Email Campaign,True,2
+446,5,2023-06-21 21:13:33,Desktop,Social Media,False,
+447,18,2023-10-21 13:01:26,Mobile,Organic Search,False,
+448,64,2023-08-24 10:00:28,Desktop,Email Campaign,False,
+449,63,2023-07-15 13:36:45,Desktop,Social Media,False,
+450,3,2023-07-30 16:30:22,Tablet,Referral,False,
+451,1,2023-12-13 22:13:51,Desktop,Referral,False,
+452,35,2023-05-20 13:14:25,Mobile,Email Campaign,True,386
+453,15,2023-06-08 13:21:09,Tablet,Referral,False,
+454,17,2023-12-20 14:51:57,Desktop,Organic Search,False,
+455,54,2023-11-15 17:56:15,Desktop,Email Campaign,False,
+456,55,2023-07-22 10:15:01,Mobile,Social Media,False,
+457,28,2023-12-25 19:14:10,Tablet,Direct,False,
+458,12,2023-06-17 14:50:16,Tablet,Organic Search,False,
+459,4,2023-12-18 19:06:39,Tablet,Social Media,True,206
+460,60,2023-08-01 21:48:34,Tablet,Email Campaign,False,
+461,58,2023-03-12 13:07:32,Tablet,Paid Ads,False,
+462,,2023-07-22 20:44:27,Tablet,Paid Ads,False,
+463,40,2023-07-22 14:08:30,Desktop,Email Campaign,False,
+464,16,2023-12-14 12:08:38,Tablet,Direct,True,235
+465,62,2023-06-29 04:56:17,Desktop,Social Media,False,
+466,63,2023-06-30 20:49:46,Tablet,Organic Search,False,
+467,,2023-09-08 08:26:13,Mobile,Social Media,False,
+468,37,2023-04-16 06:54:59,Tablet,Social Media,False,
+469,24,2023-04-06 19:17:03,Tablet,Direct,True,34
+470,69,2023-11-02 10:54:15,Mobile,Social Media,True,116
+471,17,2023-06-20 04:36:47,Desktop,Paid Ads,False,
+472,40,2023-07-15 20:29:22,Desktop,Paid Ads,False,
+473,15,2023-09-11 10:51:09,Mobile,Social Media,True,152
+474,2,2023-05-14 20:49:23,Desktop,Referral,True,265
+475,15,2023-02-01 17:02:55,Mobile,Social Media,False,
+476,69,2023-01-31 20:47:00,Tablet,Email Campaign,False,
+477,56,2023-04-14 20:52:07,Mobile,Referral,False,
+478,18,2023-04-26 06:36:28,Mobile,Paid Ads,False,
+479,37,2023-06-15 10:39:27,Mobile,Referral,False,
+480,,2023-09-29 19:24:16,Mobile,Email Campaign,False,
+481,6,2023-08-25 22:14:33,Tablet,Social Media,True,157
+482,55,2023-07-17 07:13:47,Mobile,Paid Ads,True,56
+483,31,2023-11-27 06:37:18,Mobile,Organic Search,True,290
+484,,2023-05-17 13:20:27,Tablet,Email Campaign,False,
+485,67,2023-10-29 12:54:38,Mobile,Direct,True,375
+486,,2023-02-16 12:11:49,Tablet,Paid Ads,False,
+487,32,2023-10-31 09:22:14,Tablet,Referral,False,
+488,,2023-01-20 14:04:51,Mobile,Referral,False,
+489,,2023-02-15 18:41:31,Tablet,Social Media,False,
+490,,2023-10-18 13:54:49,Tablet,Organic Search,False,
+491,53,2023-02-26 17:38:42,Tablet,Direct,False,
+492,61,2023-02-11 21:43:25,Desktop,Direct,False,
+493,20,2023-02-12 16:30:23,Desktop,Direct,False,
+494,57,2023-03-07 09:52:31,Tablet,Direct,True,209
+495,52,2023-05-27 02:05:42,Mobile,Social Media,False,
+496,,2023-05-18 18:37:20,Mobile,Direct,False,
+497,,2023-07-29 17:50:29,Desktop,Referral,False,
+498,22,2023-12-04 16:56:43,Mobile,Direct,True,179
+499,,2023-11-19 12:38:48,Tablet,Organic Search,False,
+500,46,2023-07-04 20:43:02,Desktop,Email Campaign,False,
+501,1,2023-11-21 19:04:45,Tablet,Paid Ads,False,
+502,54,2023-10-27 18:57:01,Desktop,Email Campaign,True,94
+503,26,2023-06-05 14:08:34,Tablet,Social Media,False,
+504,,2023-06-25 22:01:44,Tablet,Referral,False,
+505,44,2023-04-14 21:32:38,Tablet,Referral,False,
+506,20,2023-04-02 16:35:06,Mobile,Referral,False,
+507,43,2023-04-09 16:48:02,Mobile,Organic Search,False,
+508,67,2023-10-13 08:42:57,Mobile,Organic Search,False,
+509,,2023-04-13 13:49:34,Desktop,Paid Ads,False,
+510,6,2023-07-28 16:44:34,Desktop,Direct,False,
+511,56,2023-01-29 04:23:09,Mobile,Email Campaign,False,
+512,,2023-06-28 13:42:39,Tablet,Organic Search,False,
+513,,2023-05-05 20:12:21,Desktop,Direct,False,
+514,66,2023-08-26 17:39:23,Tablet,Organic Search,False,
+515,,2023-02-08 18:55:31,Mobile,Organic Search,False,
+516,48,2023-01-27 21:30:55,Desktop,Paid Ads,True,231
+517,70,2023-12-18 19:10:03,Desktop,Referral,True,195
+518,56,2023-06-04 13:01:05,Desktop,Social Media,False,
+519,43,2023-09-03 12:06:06,Mobile,Social Media,True,201
+520,64,2023-06-15 20:15:09,Tablet,Direct,True,99
+521,11,2023-10-22 18:22:29,Tablet,Referral,False,
+522,51,2023-08-18 11:54:08,Mobile,Direct,True,115
+523,,2023-10-15 13:13:11,Tablet,Organic Search,False,
+524,,2023-12-31 15:58:39,Tablet,Organic Search,False,
+525,37,2023-11-15 19:32:03,Desktop,Social Media,True,355
+526,,2023-06-08 12:23:21,Mobile,Referral,False,
+527,,2023-12-18 15:44:27,Tablet,Organic Search,False,
+528,4,2023-02-28 17:28:55,Tablet,Social Media,False,
+529,37,2023-10-13 11:07:40,Tablet,Social Media,True,380
+530,2,2023-07-14 14:17:29,Tablet,Email Campaign,False,
+531,,2023-12-29 18:18:32,Desktop,Referral,False,
+532,10,2023-12-19 20:29:24,Mobile,Organic Search,False,
+533,42,2023-05-19 16:38:12,Desktop,Referral,False,
+534,64,2023-10-17 21:11:45,Mobile,Paid Ads,False,
+535,14,2023-01-26 10:51:43,Desktop,Paid Ads,False,
+536,69,2023-07-26 10:22:46,Mobile,Social Media,True,233
+537,,2023-08-30 21:02:22,Tablet,Organic Search,False,
+538,67,2023-12-16 21:56:48,Desktop,Referral,False,
+539,66,2023-12-15 11:01:31,Mobile,Organic Search,True,258
+540,30,2023-11-16 19:36:35,Mobile,Email Campaign,False,
+541,32,2023-08-02 12:37:52,Mobile,Social Media,True,33
+542,14,2023-04-22 20:09:24,Tablet,Organic Search,True,218
+543,67,2023-11-05 12:26:53,Tablet,Organic Search,False,
+544,59,2023-01-26 18:48:34,Mobile,Organic Search,False,
+545,57,2023-08-06 14:54:27,Desktop,Email Campaign,False,
+546,,2023-04-22 20:57:14,Mobile,Email Campaign,False,
+547,,2023-10-24 14:35:02,Desktop,Direct,False,
+548,,2023-12-04 21:11:27,Mobile,Email Campaign,False,
+549,63,2023-11-30 15:53:48,Mobile,Direct,False,
+550,43,2023-10-12 17:27:34,Tablet,Social Media,False,
+551,36,2023-12-18 20:18:14,Tablet,Email Campaign,False,
+552,,2023-12-04 13:28:47,Mobile,Referral,False,
+553,28,2023-02-26 23:01:21,Tablet,Email Campaign,True,114
+554,14,2023-05-09 10:50:54,Desktop,Organic Search,False,
+555,69,2023-08-04 19:23:57,Mobile,Social Media,True,39
+556,25,2023-11-10 10:47:29,Tablet,Direct,False,
+557,1,2023-12-23 13:07:14,Mobile,Referral,False,
+558,53,2023-07-31 14:41:58,Mobile,Organic Search,False,
+559,17,2023-12-08 19:21:32,Desktop,Organic Search,False,
+560,,2023-11-22 15:50:15,Mobile,Paid Ads,False,
+561,2,2023-06-03 14:18:53,Mobile,Referral,False,
+562,52,2023-03-02 20:09:31,Mobile,Email Campaign,False,
+563,61,2023-04-01 21:50:03,Desktop,Referral,False,
+564,15,2023-11-19 19:52:35,Desktop,Email Campaign,False,
+565,51,2023-10-12 13:30:19,Tablet,Referral,False,
+566,32,2023-11-18 17:25:17,Mobile,Email Campaign,True,270
+567,,2023-05-07 10:19:16,Mobile,Direct,False,
+568,37,2023-08-31 12:33:59,Mobile,Social Media,False,
+569,25,2023-12-06 19:51:49,Tablet,Social Media,True,148
+570,3,2023-11-13 18:11:47,Mobile,Direct,True,190
+571,20,2023-01-31 12:11:14,Desktop,Paid Ads,True,339
+572,51,2023-04-24 09:33:03,Desktop,Organic Search,True,198
+573,61,2023-04-20 17:27:12,Mobile,Direct,False,
+574,5,2023-09-02 14:22:15,Desktop,Paid Ads,True,301
+575,22,2023-12-26 17:08:37,Mobile,Email Campaign,False,
+576,13,2023-11-24 20:51:26,Mobile,Social Media,True,32
+577,,2023-10-22 08:31:17,Mobile,Paid Ads,False,
+578,23,2023-12-22 09:20:34,Desktop,Referral,True,399
+579,53,2023-12-08 19:35:15,Desktop,Social Media,False,
+580,38,2023-03-13 17:30:13,Tablet,Referral,False,
+581,,2023-01-29 18:44:04,Desktop,Organic Search,False,
+582,,2023-07-13 09:10:11,Tablet,Email Campaign,False,
+583,,2023-04-06 20:02:44,Desktop,Paid Ads,False,
+584,55,2023-06-13 19:44:38,Tablet,Paid Ads,False,
+585,16,2023-10-24 12:06:22,Desktop,Paid Ads,False,
+586,1,2023-10-24 20:35:23,Mobile,Organic Search,False,
+587,36,2023-11-06 20:15:06,Mobile,Email Campaign,True,329
+588,24,2023-03-28 22:09:52,Desktop,Organic Search,True,46
+589,67,2023-12-17 19:21:05,Desktop,Paid Ads,True,396
+590,23,2023-10-16 14:48:31,Desktop,Organic Search,False,
+591,23,2023-10-03 17:13:04,Mobile,Direct,False,
+592,58,2023-10-17 21:42:14,Desktop,Referral,False,
+593,48,2023-09-19 10:10:19,Mobile,Organic Search,False,
+594,66,2023-11-20 11:29:14,Tablet,Social Media,True,12
+595,10,2023-11-09 13:52:15,Desktop,Social Media,False,
+596,35,2023-11-14 16:48:51,Tablet,Referral,True,252
+597,,2023-12-11 15:13:56,Mobile,Referral,False,
+598,10,2023-12-10 23:32:45,Mobile,Email Campaign,False,
+599,63,2023-02-07 18:46:52,Mobile,Social Media,False,
+600,,2023-07-08 08:29:16,Tablet,Direct,False,
+601,13,2023-12-01 14:07:18,Tablet,Paid Ads,True,271
+602,48,2023-06-09 10:01:54,Mobile,Social Media,False,
+603,50,2023-10-21 16:54:08,Mobile,Paid Ads,True,88
+604,62,2023-07-18 12:38:29,Tablet,Referral,True,199
+605,41,2023-10-22 16:32:21,Tablet,Referral,False,
+606,48,2023-07-16 18:54:18,Tablet,Social Media,True,229
+607,66,2023-10-05 21:26:28,Desktop,Paid Ads,False,
+608,13,2023-11-24 21:06:30,Tablet,Referral,False,
+609,8,2023-10-01 19:33:50,Tablet,Social Media,False,
+610,54,2023-09-29 10:59:21,Mobile,Organic Search,False,
+611,35,2023-07-02 22:27:40,Desktop,Email Campaign,False,
+612,15,2023-08-31 05:59:20,Desktop,Direct,True,28
+613,56,2023-02-01 18:16:33,Desktop,Referral,False,
+614,30,2023-11-25 23:40:23,Desktop,Organic Search,False,
+615,,2023-12-26 10:26:18,Mobile,Direct,False,
+616,64,2023-08-29 15:01:36,Desktop,Organic Search,True,7
+617,49,2023-10-28 18:08:34,Tablet,Email Campaign,False,
+618,,2023-03-06 11:14:15,Desktop,Paid Ads,False,
+619,,2023-12-11 09:05:27,Desktop,Direct,False,
+620,,2023-07-24 19:23:28,Tablet,Email Campaign,False,
+621,62,2023-06-14 16:00:14,Tablet,Referral,False,
+622,50,2023-12-31 18:50:26,Desktop,Organic Search,False,
+623,,2023-03-25 12:21:13,Mobile,Social Media,False,
+624,1,2023-12-23 14:40:44,Tablet,Direct,False,
+625,,2023-08-24 07:39:19,Tablet,Social Media,False,
+626,8,2023-12-07 12:14:44,Mobile,Social Media,False,
+627,5,2023-03-16 19:20:37,Desktop,Email Campaign,True,6
+628,53,2023-06-18 14:58:59,Mobile,Social Media,False,
+629,48,2023-06-18 20:43:41,Mobile,Social Media,False,
+630,,2023-03-11 12:41:56,Tablet,Social Media,False,
+631,45,2023-12-27 13:06:27,Mobile,Referral,False,
+632,52,2023-07-22 15:29:55,Mobile,Paid Ads,False,
+633,34,2023-11-02 12:51:01,Tablet,Referral,False,
+634,44,2023-04-20 17:21:02,Tablet,Organic Search,False,
+635,40,2023-08-12 18:01:17,Desktop,Referral,False,
+636,,2023-09-15 20:49:28,Tablet,Direct,False,
+637,46,2023-09-14 12:57:22,Tablet,Referral,False,
+638,42,2023-11-15 21:57:27,Tablet,Organic Search,False,
+639,22,2023-10-19 18:16:47,Tablet,Paid Ads,False,
+640,,2023-05-22 07:30:37,Desktop,Referral,False,
+641,,2023-08-06 19:09:52,Desktop,Referral,False,
+642,7,2023-11-11 18:41:28,Mobile,Direct,False,
+643,15,2023-04-26 16:33:58,Mobile,Paid Ads,True,97
+644,,2023-11-01 17:39:32,Mobile,Referral,False,
+645,20,2023-03-07 19:05:23,Tablet,Referral,True,166
+646,65,2023-11-29 18:15:29,Mobile,Organic Search,False,
+647,,2023-04-10 17:32:01,Mobile,Email Campaign,False,
+648,65,2023-08-13 17:28:12,Desktop,Organic Search,False,
+649,59,2023-01-27 09:04:02,Tablet,Social Media,False,
+650,14,2023-07-03 10:00:14,Mobile,Email Campaign,True,87
+651,,2023-07-19 17:56:46,Desktop,Email Campaign,False,
+652,59,2023-03-02 05:03:23,Desktop,Paid Ads,False,
+653,48,2023-09-10 15:39:08,Tablet,Social Media,False,
+654,,2023-02-23 11:08:32,Mobile,Referral,False,
+655,34,2023-06-30 21:32:29,Desktop,Direct,False,
+656,60,2023-06-13 14:27:10,Tablet,Paid Ads,False,
+657,57,2023-09-30 16:10:06,Desktop,Referral,True,273
+658,9,2023-12-20 13:03:00,Desktop,Paid Ads,False,
+659,,2023-01-04 19:42:10,Desktop,Direct,False,
+660,50,2023-11-22 11:10:30,Mobile,Organic Search,False,
+661,48,2023-06-24 16:08:03,Desktop,Direct,True,44
+662,52,2023-09-23 20:47:51,Tablet,Direct,False,
+663,55,2023-11-05 09:25:33,Tablet,Social Media,False,
+664,,2023-03-14 19:01:54,Desktop,Paid Ads,False,
+665,52,2023-01-13 13:56:48,Tablet,Paid Ads,False,
+666,62,2023-06-04 09:25:29,Desktop,Direct,False,
+667,,2023-04-19 15:08:59,Desktop,Direct,False,
+668,29,2023-12-31 09:57:27,Tablet,Organic Search,False,
+669,66,2023-08-15 20:57:39,Mobile,Social Media,True,150
+670,23,2023-10-17 16:54:26,Mobile,Paid Ads,False,
+671,55,2023-03-05 14:26:16,Tablet,Social Media,False,
+672,40,2023-11-07 18:19:17,Mobile,Organic Search,False,
+673,68,2023-07-12 11:42:38,Desktop,Email Campaign,True,23
+674,50,2023-12-09 20:34:31,Tablet,Email Campaign,False,
+675,26,2023-06-09 13:02:19,Mobile,Direct,False,
+676,60,2023-01-31 19:14:36,Desktop,Email Campaign,False,
+677,,2023-05-23 18:27:37,Tablet,Email Campaign,False,
+678,29,2023-12-18 11:18:36,Desktop,Social Media,True,131
+679,,2023-04-15 17:56:38,Mobile,Social Media,False,
+680,57,2023-07-18 11:32:44,Tablet,Organic Search,False,
+681,50,2023-12-26 15:27:04,Mobile,Organic Search,False,
+682,8,2023-09-21 10:43:13,Mobile,Social Media,False,
+683,21,2023-07-08 13:53:15,Desktop,Paid Ads,False,
+684,6,2023-04-27 14:51:26,Tablet,Referral,False,
+685,18,2023-07-02 12:08:13,Tablet,Direct,False,
+686,3,2023-10-04 08:45:05,Tablet,Social Media,False,
+687,70,2023-12-12 04:35:27,Mobile,Social Media,False,
+688,65,2023-10-15 17:15:48,Mobile,Referral,True,304
+689,,2023-05-01 05:02:28,Desktop,Referral,False,
+690,,2023-07-08 19:52:31,Desktop,Paid Ads,False,
+691,19,2023-02-22 17:31:53,Desktop,Paid Ads,True,376
+692,13,2023-12-11 20:03:06,Mobile,Social Media,False,
+693,28,2023-10-14 15:34:56,Mobile,Referral,False,
+694,29,2023-12-10 23:12:23,Tablet,Direct,False,
+695,14,2023-01-10 02:45:28,Desktop,Direct,False,
+696,,2023-03-30 17:23:50,Tablet,Social Media,False,
+697,41,2023-02-09 14:27:51,Desktop,Paid Ads,False,
+698,34,2023-10-18 19:43:43,Desktop,Social Media,False,
+699,25,2023-11-02 19:51:30,Tablet,Social Media,False,
+700,38,2023-06-10 07:45:44,Tablet,Email Campaign,False,
+701,,2023-11-19 20:02:40,Desktop,Referral,False,
+702,24,2023-09-18 08:08:07,Mobile,Social Media,False,
+703,,2023-06-22 14:45:33,Desktop,Paid Ads,False,
+704,20,2023-06-23 17:01:01,Mobile,Organic Search,True,78
+705,,2023-02-09 19:55:39,Tablet,Paid Ads,False,
+706,,2023-11-02 18:34:20,Mobile,Email Campaign,False,
+707,39,2023-03-21 21:51:55,Desktop,Social Media,False,
+708,64,2023-06-24 06:06:59,Mobile,Organic Search,False,
+709,67,2023-11-03 16:05:09,Desktop,Paid Ads,False,
+710,,2023-11-18 22:57:24,Desktop,Paid Ads,False,
+711,14,2023-01-09 20:14:56,Mobile,Organic Search,True,320
+712,61,2023-11-27 06:56:28,Tablet,Social Media,True,105
+713,27,2023-01-09 16:19:41,Desktop,Paid Ads,False,
+714,,2023-10-01 13:41:30,Tablet,Organic Search,False,
+715,20,2023-05-01 16:31:05,Tablet,Email Campaign,True,226
+716,7,2023-10-02 23:48:31,Tablet,Direct,False,
+717,20,2023-03-11 14:44:53,Mobile,Social Media,True,134
+718,70,2023-12-13 19:29:22,Tablet,Direct,True,156
+719,33,2023-05-29 07:17:11,Desktop,Email Campaign,False,
+720,26,2023-12-17 20:16:28,Mobile,Referral,False,
+721,25,2023-12-11 20:53:32,Mobile,Organic Search,False,
+722,60,2023-08-13 21:51:14,Tablet,Paid Ads,False,
+723,32,2023-12-14 21:27:21,Mobile,Paid Ads,True,267
+724,,2023-03-19 12:24:04,Desktop,Email Campaign,False,
+725,10,2023-01-14 21:13:50,Desktop,Organic Search,True,117
+726,,2023-11-19 13:03:37,Desktop,Paid Ads,False,
+727,26,2023-08-09 18:37:47,Tablet,Organic Search,True,121
+728,26,2023-01-06 14:07:36,Tablet,Social Media,True,193
+729,32,2023-10-01 17:34:00,Mobile,Social Media,True,60
+730,42,2023-10-12 13:37:29,Mobile,Referral,False,
+731,7,2023-11-17 11:52:56,Desktop,Paid Ads,True,108
+732,3,2023-12-01 21:11:20,Desktop,Referral,True,317
+733,63,2023-07-09 17:37:17,Desktop,Social Media,False,
+734,,2023-06-01 20:02:13,Tablet,Referral,False,
+735,66,2023-09-21 18:39:49,Desktop,Organic Search,False,
+736,23,2023-09-19 19:48:49,Desktop,Paid Ads,False,
+737,7,2023-12-18 16:49:42,Tablet,Referral,False,
+738,,2023-07-21 15:42:44,Tablet,Paid Ads,False,
+739,24,2023-07-20 12:20:02,Mobile,Organic Search,False,
+740,61,2023-12-05 05:58:57,Tablet,Social Media,True,170
+741,70,2023-11-02 21:46:05,Tablet,Paid Ads,True,246
+742,,2023-03-25 15:12:28,Tablet,Email Campaign,False,
+743,20,2023-12-22 19:53:53,Mobile,Email Campaign,True,262
+744,5,2023-07-13 15:26:56,Mobile,Paid Ads,False,
+745,52,2023-12-29 19:39:46,Desktop,Referral,True,365
+746,5,2023-08-29 23:35:51,Desktop,Referral,True,275
+747,,2023-11-18 09:29:28,Desktop,Direct,False,
+748,9,2023-11-01 12:36:09,Tablet,Organic Search,True,345
+749,35,2023-04-29 19:36:40,Tablet,Paid Ads,True,208
+750,38,2023-07-08 14:26:28,Mobile,Social Media,False,
+751,6,2023-12-22 11:18:27,Mobile,Referral,False,
+752,34,2023-04-17 17:10:10,Mobile,Referral,False,
+753,9,2023-11-18 18:19:11,Mobile,Social Media,False,
+754,63,2023-04-22 10:25:18,Desktop,Direct,False,
+755,57,2023-04-02 15:58:29,Mobile,Paid Ads,False,
+756,60,2023-01-24 12:45:32,Desktop,Social Media,False,
+757,17,2023-02-14 14:30:13,Mobile,Paid Ads,True,322
+758,14,2023-10-13 08:27:52,Desktop,Email Campaign,False,
+759,30,2023-12-13 11:27:17,Tablet,Paid Ads,True,307
+760,48,2023-08-21 03:09:37,Tablet,Email Campaign,False,
+761,53,2023-11-18 21:49:03,Tablet,Organic Search,False,
+762,64,2023-08-25 11:18:29,Desktop,Paid Ads,True,189
+763,13,2023-11-16 10:34:56,Desktop,Email Campaign,False,
+764,59,2023-06-06 14:37:56,Desktop,Organic Search,False,
+765,37,2023-02-11 20:53:43,Tablet,Organic Search,True,391
+766,57,2023-04-20 10:24:52,Desktop,Organic Search,False,
+767,,2023-07-23 11:39:01,Desktop,Organic Search,False,
+768,28,2023-09-26 20:02:47,Mobile,Paid Ads,False,
+769,,2023-01-05 06:04:34,Desktop,Social Media,False,
+770,,2023-10-06 14:59:51,Mobile,Paid Ads,False,
+771,9,2023-11-12 17:26:54,Mobile,Organic Search,False,
+772,65,2023-09-12 04:56:57,Tablet,Organic Search,False,
+773,,2023-04-02 11:53:07,Tablet,Organic Search,False,
+774,,2023-03-22 23:15:24,Desktop,Paid Ads,False,
+775,23,2023-11-08 17:46:41,Desktop,Direct,True,224
+776,20,2023-12-17 18:29:38,Mobile,Social Media,False,
+777,5,2023-08-21 10:44:48,Desktop,Referral,True,77
+778,53,2023-06-12 18:17:02,Desktop,Organic Search,False,
+779,52,2023-12-06 12:07:26,Desktop,Organic Search,True,288
+780,,2023-09-05 15:55:10,Tablet,Social Media,False,
+781,61,2023-11-11 16:33:16,Desktop,Paid Ads,False,
+782,27,2023-09-10 06:58:32,Tablet,Paid Ads,False,
+783,,2023-02-24 16:26:21,Tablet,Direct,False,
+784,27,2023-12-15 18:08:58,Mobile,Email Campaign,True,383
+785,4,2023-08-11 16:12:52,Tablet,Paid Ads,False,
+786,,2023-07-30 18:22:45,Mobile,Email Campaign,False,
+787,14,2023-04-11 14:44:35,Tablet,Email Campaign,False,
+788,57,2023-11-03 14:21:23,Mobile,Social Media,False,
+789,42,2023-07-31 08:28:16,Tablet,Direct,True,283
+790,16,2023-10-30 08:25:58,Mobile,Social Media,True,171
+791,30,2023-11-14 17:45:59,Desktop,Email Campaign,False,
+792,,2023-07-27 18:48:35,Tablet,Organic Search,False,
+793,,2023-12-09 22:48:26,Mobile,Referral,False,
+794,8,2023-10-08 18:50:25,Desktop,Referral,False,
+795,64,2023-11-25 05:55:00,Desktop,Referral,False,
+796,48,2023-05-30 13:08:30,Desktop,Email Campaign,True,328
+797,38,2023-11-27 10:29:08,Desktop,Direct,True,9
+798,62,2023-09-05 13:50:37,Desktop,Email Campaign,False,
+799,37,2023-09-05 16:41:42,Mobile,Referral,False,
+800,60,2023-05-25 21:34:21,Tablet,Social Media,False,
+801,8,2023-12-21 00:32:15,Tablet,Referral,False,
+802,,2023-06-30 17:50:57,Desktop,Referral,False,
+803,,2023-09-26 14:26:55,Tablet,Email Campaign,False,
+804,57,2023-10-02 14:55:10,Tablet,Direct,False,
+805,23,2023-11-16 07:57:45,Desktop,Referral,False,
+806,,2023-09-06 00:43:55,Desktop,Paid Ads,False,
+807,21,2023-06-07 19:12:53,Desktop,Email Campaign,False,
+808,18,2023-08-16 01:09:23,Tablet,Organic Search,False,
+809,25,2023-10-06 22:33:51,Mobile,Referral,False,
+810,,2023-08-15 10:54:33,Tablet,Direct,False,
+811,,2023-12-25 06:41:06,Desktop,Direct,False,
+812,10,2023-04-26 08:27:17,Desktop,Referral,True,247
+813,,2023-04-06 23:02:39,Tablet,Direct,False,
+814,34,2023-09-29 11:04:56,Desktop,Direct,False,
+815,,2023-06-08 15:30:07,Tablet,Direct,False,
+816,36,2023-11-16 20:35:36,Desktop,Direct,False,
+817,,2023-09-10 07:14:30,Desktop,Direct,False,
+818,9,2023-12-11 06:07:18,Desktop,Direct,False,
+819,,2023-12-07 19:21:43,Mobile,Paid Ads,False,
+820,5,2023-09-13 19:09:53,Tablet,Paid Ads,False,
+821,64,2023-12-17 12:27:42,Desktop,Social Media,False,
+822,9,2023-11-21 01:59:52,Mobile,Referral,False,
+823,58,2023-11-24 08:04:09,Mobile,Email Campaign,False,
+824,,2023-10-12 10:02:08,Mobile,Direct,False,
+825,53,2023-08-13 14:24:52,Mobile,Social Media,False,
+826,,2023-09-09 00:29:59,Desktop,Paid Ads,False,
+827,64,2023-08-26 19:36:44,Desktop,Organic Search,False,
+828,17,2023-05-30 13:12:12,Desktop,Email Campaign,False,
+829,38,2023-07-30 18:05:11,Tablet,Email Campaign,False,
+830,24,2023-10-12 15:24:12,Mobile,Direct,True,128
+831,40,2023-08-13 09:12:43,Desktop,Direct,True,20
+832,34,2023-08-15 18:33:50,Tablet,Social Media,False,
+833,,2023-05-05 19:16:40,Mobile,Organic Search,False,
+834,55,2023-08-08 07:36:17,Desktop,Paid Ads,False,
+835,,2023-04-12 14:31:18,Desktop,Paid Ads,False,
+836,67,2023-12-03 09:47:05,Tablet,Paid Ads,True,124
+837,70,2023-10-15 18:33:06,Mobile,Direct,False,
+838,,2023-05-07 19:40:44,Desktop,Referral,False,
+839,40,2023-09-16 09:38:00,Tablet,Email Campaign,True,35
+840,19,2023-01-08 11:34:13,Desktop,Direct,False,
+841,42,2023-11-15 08:11:42,Mobile,Organic Search,False,
+842,68,2023-10-19 16:44:30,Tablet,Paid Ads,False,
+843,7,2023-11-14 20:49:59,Desktop,Paid Ads,False,
+844,27,2023-10-21 18:17:30,Desktop,Direct,False,
+845,49,2023-09-14 15:15:22,Desktop,Referral,False,
+846,23,2023-11-07 20:28:47,Tablet,Paid Ads,True,294
+847,6,2023-12-22 16:03:22,Desktop,Email Campaign,True,281
+848,34,2023-12-15 18:26:26,Mobile,Email Campaign,False,
+849,,2023-03-02 21:10:45,Desktop,Social Media,False,
+850,51,2023-11-14 14:15:49,Mobile,Organic Search,False,
+851,,2023-01-03 14:02:40,Mobile,Social Media,False,
+852,53,2023-09-28 19:16:29,Tablet,Referral,False,
+853,63,2023-06-06 09:02:23,Desktop,Organic Search,True,327
+854,42,2023-10-16 09:18:53,Desktop,Referral,True,133
+855,28,2023-05-23 10:15:25,Mobile,Paid Ads,False,
+856,5,2023-05-25 21:31:31,Mobile,Email Campaign,False,
+857,,2023-05-04 21:02:40,Mobile,Direct,False,
+858,20,2023-10-29 21:53:22,Mobile,Referral,True,312
+859,59,2023-01-12 14:01:06,Desktop,Paid Ads,False,
+860,46,2023-01-31 08:07:22,Desktop,Email Campaign,True,259
+861,36,2023-12-05 08:51:32,Desktop,Paid Ads,False,
+862,45,2023-04-22 20:52:39,Mobile,Social Media,False,
+863,15,2023-01-27 19:54:17,Desktop,Paid Ads,True,110
+864,31,2023-09-24 11:18:13,Tablet,Email Campaign,False,
+865,31,2023-12-15 21:06:05,Tablet,Direct,True,257
+866,45,2023-12-31 16:41:16,Desktop,Social Media,False,
+867,63,2023-01-30 23:23:16,Tablet,Referral,False,
+868,36,2023-11-09 13:19:51,Desktop,Paid Ads,False,
+869,65,2023-12-16 09:19:55,Desktop,Email Campaign,False,
+870,29,2023-12-25 19:37:37,Mobile,Email Campaign,True,377
+871,59,2023-08-11 17:31:00,Desktop,Social Media,True,95
+872,56,2023-11-29 20:10:22,Desktop,Social Media,False,
+873,,2023-09-17 17:30:19,Tablet,Direct,False,
+874,6,2023-04-14 12:03:34,Mobile,Referral,False,
+875,11,2023-08-05 15:14:32,Desktop,Referral,False,
+876,,2023-08-06 11:59:05,Tablet,Paid Ads,False,
+877,27,2023-06-15 20:27:06,Desktop,Email Campaign,True,347
+878,37,2023-03-13 19:09:37,Desktop,Email Campaign,False,
+879,,2023-02-12 13:57:03,Mobile,Email Campaign,False,
+880,24,2023-12-01 09:40:56,Tablet,Social Media,False,
+881,,2023-06-24 14:26:13,Mobile,Social Media,False,
+882,6,2023-02-23 19:44:04,Mobile,Referral,True,136
+883,18,2023-11-26 20:23:25,Tablet,Referral,False,
+884,,2023-01-22 20:48:41,Tablet,Email Campaign,False,
+885,55,2023-03-26 11:49:16,Desktop,Email Campaign,True,67
+886,35,2023-05-19 19:35:15,Mobile,Paid Ads,True,180
+887,66,2023-08-29 00:38:17,Tablet,Direct,False,
+888,19,2023-09-05 18:16:58,Desktop,Referral,False,
+889,34,2023-07-02 20:00:37,Desktop,Referral,False,
+890,,2023-07-13 16:20:53,Desktop,Organic Search,False,
+891,50,2023-12-27 18:31:59,Tablet,Referral,False,
+892,53,2023-12-27 23:46:57,Desktop,Direct,False,
+893,11,2023-06-13 15:20:03,Tablet,Paid Ads,False,
+894,69,2023-01-17 17:18:59,Tablet,Email Campaign,False,
+895,34,2023-11-16 20:27:57,Tablet,Organic Search,False,
+896,16,2023-08-05 19:26:40,Desktop,Referral,False,
+897,27,2023-12-07 16:10:18,Mobile,Social Media,False,
+898,31,2023-10-04 17:22:38,Desktop,Referral,False,
+899,50,2023-12-14 17:36:18,Mobile,Paid Ads,False,
+900,1,2023-10-18 08:16:33,Tablet,Email Campaign,False,
+901,30,2023-11-28 05:00:07,Desktop,Email Campaign,False,
+902,59,2023-03-07 17:49:03,Mobile,Email Campaign,False,
+903,,2023-09-03 19:30:17,Desktop,Direct,False,
+904,64,2023-12-11 11:00:32,Mobile,Paid Ads,False,
+905,29,2023-12-24 14:05:34,Tablet,Referral,False,
+906,,2023-07-11 20:47:17,Desktop,Social Media,False,
+907,70,2023-10-07 15:10:25,Tablet,Paid Ads,True,123
+908,24,2023-10-10 01:21:14,Tablet,Social Media,False,
+909,35,2023-04-03 11:09:07,Tablet,Email Campaign,False,
+910,32,2023-07-23 16:24:34,Tablet,Direct,True,302
+911,19,2023-10-02 14:32:45,Tablet,Direct,False,
+912,10,2023-02-12 11:48:59,Desktop,Direct,True,144
+913,60,2023-11-21 12:40:45,Desktop,Email Campaign,True,68
+914,69,2023-06-17 13:12:22,Tablet,Organic Search,False,
+915,33,2023-03-03 10:30:35,Desktop,Direct,True,188
+916,45,2023-11-06 18:28:13,Desktop,Paid Ads,False,
+917,31,2023-10-01 15:51:56,Desktop,Referral,False,
+918,,2023-05-22 16:59:08,Tablet,Email Campaign,False,
+919,18,2023-12-14 19:49:56,Mobile,Email Campaign,False,
+920,40,2023-12-22 15:18:29,Tablet,Social Media,True,76
+921,25,2023-10-12 17:59:37,Mobile,Paid Ads,False,
+922,,2023-10-28 13:07:19,Desktop,Paid Ads,False,
+923,50,2023-12-29 21:43:48,Tablet,Direct,True,183
+924,18,2023-12-21 14:34:09,Desktop,Referral,False,
+925,16,2023-10-27 16:48:57,Desktop,Direct,False,
+926,68,2023-05-04 14:42:43,Tablet,Organic Search,False,
+927,16,2023-10-27 11:04:58,Desktop,Email Campaign,False,
+928,,2023-10-18 19:38:45,Desktop,Email Campaign,False,
+929,26,2023-08-16 09:12:12,Desktop,Referral,True,277
+930,35,2023-04-01 18:26:11,Desktop,Referral,False,
+931,45,2023-02-19 17:52:57,Mobile,Direct,False,
+932,7,2023-12-04 21:44:26,Mobile,Organic Search,False,
+933,58,2023-02-13 00:49:19,Mobile,Social Media,False,
+934,21,2023-09-30 20:04:57,Mobile,Paid Ads,True,318
+935,7,2023-11-10 18:20:00,Desktop,Referral,True,215
+936,64,2023-06-24 10:09:21,Mobile,Referral,True,211
+937,63,2023-02-15 12:23:07,Mobile,Email Campaign,False,
+938,,2023-09-28 19:35:57,Desktop,Referral,False,
+939,16,2023-11-04 23:35:55,Desktop,Referral,False,
+940,58,2023-03-21 15:33:51,Mobile,Organic Search,False,
+941,,2023-07-04 17:30:02,Tablet,Direct,False,
+942,52,2023-09-10 11:39:14,Mobile,Email Campaign,True,54
+943,,2023-10-02 19:43:56,Mobile,Social Media,False,
+944,,2023-03-22 16:17:19,Desktop,Organic Search,False,
+945,39,2023-02-04 05:55:30,Mobile,Email Campaign,True,282
+946,46,2023-04-23 19:27:59,Tablet,Paid Ads,True,159
+947,,2023-05-11 13:46:50,Desktop,Social Media,False,
+948,,2023-09-28 12:37:30,Desktop,Paid Ads,False,
+949,29,2023-12-29 19:44:38,Mobile,Email Campaign,False,
+950,,2023-09-03 20:55:37,Desktop,Email Campaign,False,
+951,,2023-08-02 19:47:36,Desktop,Organic Search,False,
+952,40,2023-07-13 17:06:35,Tablet,Email Campaign,False,
+953,45,2023-09-03 19:04:12,Mobile,Email Campaign,False,
+954,47,2023-11-01 14:48:47,Desktop,Email Campaign,False,
+955,,2023-06-08 22:15:29,Mobile,Social Media,False,
+956,,2023-03-04 08:17:24,Mobile,Referral,False,
+957,,2023-04-30 20:16:20,Tablet,Social Media,False,
+958,67,2023-11-26 08:21:06,Desktop,Paid Ads,True,49
+959,14,2023-11-22 11:59:07,Tablet,Referral,False,
+960,57,2023-10-11 15:57:38,Mobile,Paid Ads,True,175
+961,,2023-02-18 09:27:23,Tablet,Referral,False,
+962,43,2023-11-04 16:42:09,Tablet,Organic Search,True,89
+963,37,2023-12-13 18:04:01,Mobile,Social Media,True,341
+964,32,2023-09-22 12:54:45,Desktop,Email Campaign,True,93
+965,68,2023-01-13 21:37:27,Desktop,Organic Search,False,
+966,54,2023-12-24 18:40:32,Desktop,Referral,False,
+967,29,2023-12-22 16:30:47,Mobile,Paid Ads,True,162
+968,42,2023-07-08 07:25:44,Desktop,Direct,False,
+969,,2023-12-06 21:02:42,Desktop,Direct,False,
+970,8,2023-10-01 05:00:36,Mobile,Email Campaign,False,
+971,32,2023-08-31 17:49:52,Mobile,Direct,True,196
+972,22,2023-12-03 22:19:51,Tablet,Direct,True,186
+973,,2023-10-12 19:01:19,Desktop,Social Media,False,
+974,68,2023-06-22 20:56:19,Tablet,Paid Ads,True,161
+975,41,2023-01-30 20:01:15,Tablet,Direct,False,
+976,,2023-01-16 14:37:12,Mobile,Email Campaign,False,
+977,34,2023-08-04 15:07:19,Tablet,Referral,False,
+978,30,2023-11-14 16:21:34,Desktop,Organic Search,True,66
+979,,2023-07-29 21:41:28,Desktop,Direct,False,
+980,53,2023-07-27 20:41:46,Desktop,Social Media,False,
+981,47,2023-11-16 15:38:46,Mobile,Referral,False,
+982,,2023-01-30 17:45:20,Desktop,Referral,False,
+983,,2023-06-13 09:04:41,Tablet,Direct,False,
+984,12,2023-07-05 06:54:58,Tablet,Email Campaign,True,52
+985,43,2023-01-24 10:18:13,Tablet,Referral,False,
+986,42,2023-12-24 17:01:56,Desktop,Organic Search,True,356
+987,,2023-03-27 20:24:08,Mobile,Paid Ads,False,
+988,35,2023-12-23 15:23:44,Desktop,Organic Search,False,
+989,,2023-04-24 17:06:50,Tablet,Email Campaign,False,
+990,65,2023-08-05 20:32:45,Tablet,Social Media,False,
+991,,2023-08-23 18:12:47,Mobile,Email Campaign,False,
+992,37,2023-11-22 19:37:26,Desktop,Referral,True,297
+993,52,2023-10-10 18:59:31,Mobile,Referral,True,238
+994,,2023-12-25 17:23:12,Tablet,Direct,False,
+995,31,2023-11-13 08:59:14,Desktop,Organic Search,False,
+996,3,2023-11-17 08:46:43,Tablet,Direct,True,73
+997,,2023-02-19 09:10:32,Tablet,Organic Search,False,
+998,9,2023-11-29 20:21:53,Tablet,Organic Search,False,
+999,,2023-10-19 14:21:13,Mobile,Direct,False,
+1000,45,2023-06-05 14:32:21,Mobile,Paid Ads,False,
+1001,68,2023-06-10 00:56:35,Tablet,Direct,False,
+1002,12,2023-07-16 17:27:54,Tablet,Referral,False,
+1003,8,2023-07-22 18:17:02,Tablet,Paid Ads,False,
+1004,26,2023-04-06 20:41:11,Tablet,Social Media,False,
+1005,,2023-03-07 14:18:46,Tablet,Organic Search,False,
+1006,44,2023-06-23 11:34:36,Desktop,Paid Ads,False,
+1007,9,2023-12-06 09:13:46,Tablet,Paid Ads,False,
+1008,,2023-12-27 18:41:15,Mobile,Referral,False,
+1009,36,2023-12-09 01:45:39,Mobile,Paid Ads,False,
+1010,,2023-05-27 20:39:14,Mobile,Social Media,False,
+1011,,2023-03-13 07:31:02,Tablet,Email Campaign,False,
+1012,16,2023-09-06 18:58:56,Mobile,Organic Search,True,293
+1013,,2023-10-22 20:48:56,Desktop,Referral,False,
+1014,37,2023-04-18 09:40:12,Mobile,Referral,True,260
+1015,,2023-06-09 08:11:46,Desktop,Paid Ads,False,
+1016,6,2023-08-17 17:52:20,Mobile,Email Campaign,False,
+1017,,2023-07-23 17:06:00,Mobile,Referral,False,
+1018,56,2023-06-23 09:27:55,Mobile,Paid Ads,False,
+1019,52,2023-07-09 19:50:51,Mobile,Organic Search,False,
+1020,12,2023-04-28 17:35:05,Desktop,Email Campaign,False,
+1021,2,2023-12-21 12:58:16,Mobile,Referral,True,1
+1022,27,2023-03-25 03:54:31,Tablet,Paid Ads,False,
+1023,,2023-02-11 14:26:18,Desktop,Organic Search,False,
+1024,7,2023-12-30 19:41:36,Mobile,Referral,True,50
+1025,65,2023-11-21 21:10:21,Desktop,Organic Search,True,169
+1026,33,2023-02-08 13:16:13,Mobile,Referral,False,
+1027,46,2023-11-05 16:26:10,Mobile,Paid Ads,False,
+1028,,2023-10-07 09:27:27,Mobile,Paid Ads,False,
+1029,50,2023-12-20 10:11:38,Tablet,Organic Search,False,
+1030,20,2023-10-10 01:34:03,Desktop,Paid Ads,True,65
+1031,67,2023-10-31 14:18:23,Tablet,Paid Ads,False,
+1032,21,2023-12-20 13:57:32,Mobile,Referral,False,
+1033,,2023-05-18 15:42:41,Desktop,Paid Ads,False,
+1034,,2023-07-05 00:20:50,Mobile,Email Campaign,False,
+1035,24,2023-02-14 20:48:43,Mobile,Direct,False,
+1036,,2023-05-07 13:13:47,Tablet,Email Campaign,False,
+1037,,2023-12-24 15:25:14,Mobile,Direct,False,
+1038,66,2023-09-18 12:19:09,Desktop,Direct,False,
+1039,32,2023-06-14 17:28:31,Tablet,Referral,False,
+1040,21,2023-08-26 18:36:35,Desktop,Social Media,False,
+1041,7,2023-10-02 13:41:11,Mobile,Social Media,False,
+1042,55,2023-05-20 15:42:27,Tablet,Email Campaign,False,
+1043,12,2023-04-11 19:22:03,Mobile,Direct,False,
+1044,17,2023-09-08 13:42:07,Tablet,Paid Ads,False,
+1045,23,2023-11-18 07:18:02,Mobile,Organic Search,False,
+1046,10,2023-04-01 05:22:15,Tablet,Social Media,False,
+1047,51,2023-11-03 17:37:36,Tablet,Organic Search,True,55
+1048,50,2023-12-10 20:52:05,Mobile,Organic Search,False,
+1049,,2023-03-08 09:12:04,Mobile,Paid Ads,False,
+1050,26,2023-07-13 13:33:52,Mobile,Direct,True,70
+1051,2,2023-05-30 10:42:03,Tablet,Paid Ads,True,222
+1052,58,2023-05-03 15:16:01,Tablet,Email Campaign,True,360
+1053,,2023-09-19 22:53:01,Tablet,Organic Search,False,
+1054,61,2023-04-22 16:38:46,Desktop,Email Campaign,True,21
+1055,38,2023-11-12 22:21:43,Tablet,Social Media,False,
+1056,49,2023-05-19 16:28:42,Mobile,Organic Search,True,26
+1057,21,2023-04-22 20:42:44,Desktop,Paid Ads,False,
+1058,40,2023-12-09 02:01:01,Tablet,Email Campaign,False,
+1059,52,2023-09-02 12:32:51,Tablet,Referral,False,
+1060,47,2023-10-18 10:30:30,Desktop,Email Campaign,False,
+1061,42,2023-10-18 18:37:46,Desktop,Email Campaign,True,263
+1062,,2023-05-08 09:04:11,Tablet,Direct,False,
+1063,62,2023-09-01 14:19:42,Mobile,Social Media,False,
+1064,,2023-10-23 23:28:14,Mobile,Referral,False,
+1065,29,2023-12-06 18:49:20,Mobile,Paid Ads,True,45
+1066,60,2023-03-01 19:12:54,Tablet,Social Media,False,
+1067,58,2023-01-23 20:59:14,Desktop,Email Campaign,False,
+1068,15,2023-01-23 12:35:24,Tablet,Email Campaign,False,
+1069,,2023-04-14 17:20:18,Tablet,Organic Search,False,
+1070,27,2023-02-19 15:36:57,Mobile,Direct,False,
+1071,31,2023-12-26 09:06:47,Tablet,Email Campaign,False,
+1072,30,2023-11-19 20:57:34,Tablet,Organic Search,False,
+1073,59,2023-10-28 19:46:33,Desktop,Social Media,False,
+1074,,2023-06-08 19:45:22,Mobile,Paid Ads,False,
+1075,40,2023-08-19 14:04:02,Tablet,Social Media,True,392
+1076,,2023-12-21 13:08:35,Desktop,Email Campaign,False,
+1077,20,2023-07-26 22:18:30,Mobile,Referral,False,
+1078,46,2023-06-15 10:54:38,Mobile,Direct,False,
+1079,,2023-01-21 22:09:11,Tablet,Organic Search,False,
+1080,,2023-07-11 09:43:07,Tablet,Referral,False,
+1081,,2023-05-06 01:26:08,Desktop,Referral,False,
+1082,45,2023-09-07 20:57:41,Mobile,Paid Ads,False,
+1083,60,2023-01-15 17:26:46,Desktop,Direct,False,
+1084,,2023-11-26 19:45:44,Mobile,Organic Search,False,
+1085,26,2023-05-28 11:35:46,Mobile,Paid Ads,True,256
+1086,15,2023-09-13 13:09:00,Mobile,Social Media,False,
+1087,,2023-03-28 20:21:11,Mobile,Social Media,False,
+1088,66,2023-09-10 11:00:29,Mobile,Referral,False,
+1089,,2023-07-27 21:48:46,Mobile,Email Campaign,False,
+1090,22,2023-12-31 16:07:51,Tablet,Social Media,False,
+1091,38,2023-01-07 22:40:34,Desktop,Referral,False,
+1092,,2023-01-08 12:19:09,Mobile,Organic Search,False,
+1093,44,2023-02-07 09:56:31,Tablet,Paid Ads,True,197
+1094,32,2023-07-25 13:14:36,Mobile,Organic Search,False,
+1095,11,2023-06-22 10:58:07,Tablet,Organic Search,False,
+1096,,2023-10-26 18:13:47,Desktop,Paid Ads,False,
+1097,,2023-04-20 07:57:15,Desktop,Referral,False,
+1098,,2023-07-23 06:38:33,Mobile,Social Media,False,
+1099,5,2023-12-02 22:52:05,Desktop,Direct,False,
+1100,,2023-09-29 21:44:40,Mobile,Organic Search,False,
+1101,13,2023-12-02 17:08:00,Mobile,Referral,False,
+1102,37,2023-07-14 14:20:41,Desktop,Direct,True,245
+1103,,2023-04-02 23:44:21,Tablet,Paid Ads,False,
+1104,54,2023-12-29 20:33:51,Mobile,Direct,False,
+1105,6,2023-04-20 17:27:58,Tablet,Referral,False,
+1106,47,2023-12-14 14:14:55,Desktop,Email Campaign,False,
+1107,25,2023-12-01 16:54:04,Desktop,Social Media,True,103
+1108,18,2023-08-27 17:31:52,Tablet,Social Media,False,
+1109,67,2023-10-29 16:01:40,Desktop,Paid Ads,True,274
+1110,26,2023-05-26 20:50:41,Mobile,Email Campaign,False,
+1111,21,2023-01-06 20:15:58,Mobile,Social Media,False,
+1112,9,2023-11-28 15:46:45,Tablet,Direct,True,381
+1113,21,2023-04-15 00:11:26,Mobile,Social Media,False,
+1114,6,2023-10-16 18:03:43,Desktop,Organic Search,False,
+1115,44,2023-08-30 12:45:15,Desktop,Direct,True,38
+1116,,2023-07-29 13:11:13,Tablet,Social Media,False,
+1117,,2023-08-13 07:34:43,Mobile,Social Media,False,
+1118,30,2023-12-30 20:19:04,Tablet,Email Campaign,False,
+1119,36,2023-12-02 16:39:15,Desktop,Referral,False,
+1120,8,2023-08-14 01:53:59,Desktop,Social Media,False,
+1121,46,2023-07-21 08:55:31,Mobile,Email Campaign,False,
+1122,44,2023-01-19 16:24:48,Tablet,Email Campaign,False,
+1123,11,2023-12-09 21:08:31,Desktop,Organic Search,False,
+1124,,2023-07-09 15:50:06,Desktop,Direct,False,
+1125,21,2023-10-05 18:29:55,Tablet,Organic Search,False,
+1126,,2023-05-17 18:32:32,Mobile,Email Campaign,False,
+1127,7,2023-11-03 20:13:36,Desktop,Email Campaign,False,
+1128,4,2023-12-07 19:16:06,Tablet,Social Media,True,3
+1129,15,2023-10-02 22:36:57,Desktop,Social Media,False,
+1130,49,2023-03-04 12:06:01,Tablet,Social Media,False,
+1131,1,2023-12-26 18:15:11,Mobile,Social Media,True,295
+1132,34,2023-10-12 15:01:22,Mobile,Direct,True,337
+1133,16,2023-12-04 13:13:10,Tablet,Email Campaign,False,
+1134,10,2023-01-14 12:05:41,Mobile,Referral,False,
+1135,,2023-10-15 17:28:11,Mobile,Referral,False,
+1136,10,2023-12-02 15:08:26,Tablet,Referral,False,
+1137,24,2023-10-17 13:26:14,Desktop,Organic Search,True,36
+1138,,2023-10-16 21:35:52,Desktop,Social Media,False,
+1139,12,2023-08-24 20:17:08,Tablet,Email Campaign,False,
+1140,24,2023-03-13 19:39:36,Desktop,Referral,False,
+1141,19,2023-01-19 21:42:04,Mobile,Social Media,True,80
+1142,45,2023-07-27 19:21:45,Mobile,Paid Ads,False,
+1143,40,2023-06-26 09:45:11,Tablet,Email Campaign,True,248
+1144,45,2023-03-09 18:00:21,Tablet,Email Campaign,True,311
+1145,26,2023-04-10 17:37:50,Tablet,Email Campaign,False,
+1146,20,2023-03-14 12:23:24,Tablet,Paid Ads,False,
+1147,11,2023-10-19 10:11:56,Mobile,Referral,True,69
+1148,3,2023-07-30 07:59:52,Mobile,Direct,True,324
+1149,27,2023-01-31 17:35:02,Mobile,Referral,False,
+1150,70,2023-11-20 13:27:24,Tablet,Social Media,False,
+1151,35,2023-05-30 18:33:53,Desktop,Paid Ads,True,284
+1152,40,2023-10-27 19:10:19,Tablet,Social Media,True,127
+1153,,2023-10-01 19:54:43,Mobile,Referral,False,
+1154,,2023-07-28 17:37:31,Mobile,Paid Ads,False,
+1155,42,2023-07-29 20:01:49,Desktop,Paid Ads,False,
+1156,53,2023-09-19 17:49:43,Desktop,Email Campaign,False,
+1157,,2023-07-02 18:06:46,Tablet,Email Campaign,False,
+1158,1,2023-10-24 13:40:59,Mobile,Organic Search,True,372
+1159,34,2023-06-14 11:25:16,Tablet,Social Media,False,
+1160,12,2023-11-10 12:52:30,Mobile,Social Media,True,59
+1161,24,2023-05-16 20:23:27,Mobile,Referral,True,40
+1162,25,2023-11-27 14:11:49,Mobile,Paid Ads,False,
+1163,32,2023-08-07 11:57:35,Desktop,Email Campaign,False,
+1164,2,2023-07-15 13:05:43,Mobile,Referral,True,202
+1165,,2023-05-24 14:41:39,Desktop,Paid Ads,False,
+1166,32,2023-12-22 09:34:27,Desktop,Organic Search,False,
+1167,4,2023-07-13 11:32:46,Desktop,Paid Ads,True,296
+1168,16,2023-10-13 18:00:38,Mobile,Social Media,False,
+1169,40,2023-10-04 22:35:33,Tablet,Direct,False,
+1170,26,2023-11-01 20:27:54,Desktop,Social Media,True,8
+1171,,2023-01-09 18:16:29,Tablet,Paid Ads,False,
+1172,69,2023-07-30 13:34:18,Tablet,Referral,False,
+1173,,2023-01-10 19:28:42,Mobile,Social Media,False,
+1174,33,2023-12-08 08:40:27,Desktop,Organic Search,False,
+1175,13,2023-12-16 10:19:20,Desktop,Referral,False,
+1176,,2023-04-17 09:24:20,Desktop,Direct,False,
+1177,16,2023-10-30 11:54:03,Desktop,Direct,True,276
+1178,68,2023-04-13 09:38:33,Desktop,Social Media,False,
+1179,34,2023-06-24 17:30:16,Mobile,Referral,False,
+1180,46,2023-03-22 15:54:40,Tablet,Email Campaign,True,178
+1181,,2023-08-16 19:54:04,Mobile,Direct,False,
+1182,39,2023-12-08 11:03:22,Mobile,Social Media,False,
+1183,61,2023-02-18 16:31:39,Mobile,Paid Ads,False,
+1184,,2023-06-18 19:11:25,Mobile,Email Campaign,False,
+1185,40,2023-11-16 21:20:10,Desktop,Social Media,False,
+1186,17,2023-09-23 13:41:45,Desktop,Direct,True,27
+1187,67,2023-10-05 20:11:35,Tablet,Organic Search,True,335
+1188,60,2023-12-19 17:29:10,Mobile,Organic Search,False,
+1189,30,2023-12-24 21:15:49,Mobile,Social Media,True,51
+1190,65,2023-09-28 15:33:25,Desktop,Organic Search,False,
+1191,37,2023-03-12 19:47:38,Tablet,Social Media,False,
+1192,,2023-03-11 10:28:39,Tablet,Social Media,False,
+1193,42,2023-11-29 08:58:56,Mobile,Organic Search,True,398
+1194,,2023-02-22 06:58:54,Tablet,Email Campaign,False,
+1195,38,2023-09-19 17:47:20,Mobile,Social Media,True,207
+1196,17,2023-12-22 19:03:06,Desktop,Direct,False,
+1197,56,2023-01-12 18:49:44,Tablet,Referral,False,
+1198,,2023-07-26 20:55:48,Desktop,Email Campaign,False,
+1199,30,2023-12-12 22:28:58,Mobile,Paid Ads,False,
+1200,47,2023-11-11 13:26:32,Desktop,Direct,False,
+1201,23,2023-12-31 21:18:24,Tablet,Email Campaign,True,221
+1202,23,2023-11-19 17:11:54,Tablet,Referral,False,
+1203,41,2023-02-19 20:58:52,Mobile,Email Campaign,False,
+1204,6,2023-11-13 14:06:22,Desktop,Paid Ads,False,
+1205,35,2023-08-29 18:09:59,Tablet,Email Campaign,True,139
+1206,59,2023-10-30 19:59:19,Desktop,Organic Search,False,
+1207,17,2023-11-25 15:09:42,Desktop,Referral,False,
+1208,3,2023-08-19 09:25:38,Desktop,Direct,True,325
+1209,,2023-01-24 14:44:28,Tablet,Social Media,False,
+1210,1,2023-12-01 09:12:55,Tablet,Direct,True,228
+1211,34,2023-08-12 20:23:28,Desktop,Direct,False,
+1212,,2023-12-21 13:04:53,Tablet,Email Campaign,False,
+1213,48,2023-09-01 17:02:18,Tablet,Paid Ads,True,244
+1214,,2023-05-28 20:53:29,Mobile,Direct,False,
+1215,28,2023-02-20 14:04:59,Desktop,Social Media,False,
+1216,37,2023-09-28 19:34:10,Mobile,Referral,False,
+1217,37,2023-09-08 12:05:04,Desktop,Direct,False,
+1218,,2023-03-07 18:57:27,Mobile,Organic Search,False,
+1219,61,2023-02-12 08:53:09,Tablet,Paid Ads,True,168
+1220,59,2023-12-15 18:52:52,Mobile,Referral,False,
+1221,,2023-02-02 20:15:04,Mobile,Paid Ads,False,
+1222,62,2023-09-20 08:28:40,Tablet,Direct,False,
+1223,57,2023-10-21 12:39:02,Desktop,Email Campaign,False,
+1224,,2023-06-05 11:37:04,Tablet,Organic Search,False,
+1225,69,2023-07-14 19:38:01,Mobile,Paid Ads,True,107
+1226,21,2023-10-15 11:29:37,Tablet,Social Media,False,
+1227,11,2023-04-21 14:22:28,Desktop,Organic Search,False,
+1228,21,2023-11-23 16:58:03,Tablet,Direct,True,112
+1229,44,2023-09-13 12:50:50,Desktop,Organic Search,False,
+1230,49,2023-12-07 17:40:41,Tablet,Email Campaign,False,
+1231,,2023-01-25 17:21:52,Mobile,Social Media,False,
+1232,,2023-07-12 18:51:25,Mobile,Organic Search,False,
+1233,,2023-07-29 17:35:53,Desktop,Referral,False,
+1234,57,2023-07-28 20:59:53,Mobile,Direct,False,
+1235,,2023-10-03 19:44:31,Mobile,Referral,False,
+1236,,2023-02-21 22:01:29,Desktop,Social Media,False,
+1237,47,2023-12-31 07:56:27,Tablet,Direct,False,
+1238,46,2023-09-29 20:28:04,Tablet,Email Campaign,True,299
+1239,11,2023-04-19 12:09:55,Tablet,Paid Ads,True,315
+1240,37,2023-09-09 20:54:30,Desktop,Organic Search,True,98
+1241,,2023-07-09 11:20:04,Tablet,Email Campaign,False,
+1242,12,2023-04-14 20:51:35,Desktop,Referral,False,
+1243,,2023-11-13 21:46:19,Desktop,Organic Search,False,
+1244,44,2023-12-26 13:05:11,Tablet,Referral,True,390
+1245,49,2023-04-18 22:20:37,Mobile,Social Media,False,
+1246,,2023-11-14 00:51:10,Desktop,Email Campaign,False,
+1247,64,2023-12-24 20:55:01,Desktop,Organic Search,False,
+1248,,2023-08-15 19:49:02,Tablet,Direct,False,
+1249,48,2023-05-15 17:24:09,Desktop,Social Media,True,397
+1250,,2023-09-16 16:40:19,Mobile,Organic Search,False,
+1251,46,2023-09-17 19:01:28,Tablet,Referral,False,
+1252,,2023-02-18 13:06:56,Tablet,Paid Ads,False,
+1253,36,2023-12-09 12:20:19,Tablet,Email Campaign,False,
+1254,11,2023-12-24 17:25:11,Desktop,Direct,True,132
+1255,16,2023-12-09 14:12:17,Tablet,Organic Search,True,138
+1256,,2023-10-02 16:08:35,Desktop,Referral,False,
+1257,60,2023-08-01 11:15:53,Desktop,Social Media,True,154
+1258,38,2023-04-10 07:45:17,Desktop,Direct,False,
+1259,,2023-04-29 13:57:42,Desktop,Social Media,False,
+1260,25,2023-12-03 22:59:14,Tablet,Organic Search,False,
+1261,21,2023-07-04 10:18:00,Mobile,Referral,False,
+1262,56,2023-04-02 11:30:41,Desktop,Referral,False,
+1263,28,2023-03-11 10:40:23,Tablet,Organic Search,True,323
+1264,66,2023-09-12 18:43:15,Tablet,Referral,False,
+1265,54,2023-12-21 19:51:28,Tablet,Organic Search,True,370
+1266,4,2023-02-16 22:31:42,Tablet,Social Media,True,330
+1267,69,2023-09-13 21:22:59,Desktop,Referral,True,346
+1268,12,2023-04-05 13:22:40,Tablet,Social Media,False,
+1269,32,2023-11-19 13:28:34,Desktop,Social Media,False,
+1270,24,2023-10-12 07:43:35,Mobile,Email Campaign,False,
+1271,46,2023-03-04 14:59:21,Tablet,Direct,False,
+1272,,2023-03-22 17:25:19,Tablet,Paid Ads,False,
+1273,,2023-10-19 15:42:42,Tablet,Paid Ads,False,
+1274,38,2023-07-31 19:07:35,Mobile,Email Campaign,True,29
+1275,13,2023-12-30 09:25:51,Tablet,Paid Ads,False,
+1276,20,2023-09-04 19:16:10,Mobile,Email Campaign,False,
+1277,43,2023-08-11 11:20:01,Tablet,Email Campaign,True,22
+1278,,2023-02-24 15:03:05,Mobile,Social Media,False,
+1279,56,2023-01-11 15:39:12,Desktop,Referral,True,182
+1280,,2023-12-07 10:59:45,Mobile,Referral,False,
+1281,66,2023-07-19 14:16:37,Tablet,Organic Search,False,
+1282,,2023-11-30 09:47:26,Mobile,Organic Search,False,
+1283,39,2023-08-17 09:28:53,Tablet,Referral,True,71
+1284,55,2023-03-21 15:48:16,Tablet,Social Media,False,
+1285,,2023-05-24 12:37:05,Desktop,Direct,False,
+1286,59,2023-08-31 21:19:37,Mobile,Paid Ads,False,
+1287,37,2023-01-16 19:53:37,Desktop,Organic Search,True,351
+1288,,2023-08-25 16:53:11,Tablet,Social Media,False,
+1289,6,2023-05-26 22:09:22,Desktop,Email Campaign,False,
+1290,3,2023-08-26 21:40:14,Tablet,Organic Search,False,
+1291,,2023-10-05 19:52:57,Mobile,Paid Ads,False,
+1292,26,2023-08-07 12:59:55,Tablet,Direct,False,
+1293,,2023-03-21 11:13:02,Tablet,Paid Ads,False,
+1294,,2023-04-27 06:45:00,Desktop,Social Media,False,
+1295,27,2023-10-10 17:46:37,Desktop,Email Campaign,False,
+1296,,2023-08-29 23:25:44,Mobile,Direct,False,
+1297,,2023-01-27 19:47:11,Tablet,Direct,False,
+1298,20,2023-11-16 07:48:20,Tablet,Organic Search,False,
+1299,,2023-03-22 11:59:59,Tablet,Organic Search,False,
+1300,36,2023-11-13 20:23:35,Tablet,Organic Search,False,
+1301,,2023-09-21 09:24:38,Desktop,Paid Ads,False,
+1302,,2023-05-29 18:43:55,Mobile,Paid Ads,False,
+1303,70,2023-12-18 20:52:24,Mobile,Email Campaign,False,
+1304,68,2023-05-13 18:08:53,Mobile,Direct,True,64
+1305,70,2023-10-10 13:43:45,Desktop,Referral,False,
+1306,17,2023-07-18 17:49:19,Mobile,Organic Search,False,
+1307,43,2023-09-02 07:29:54,Desktop,Social Media,False,
+1308,,2023-10-17 22:52:52,Desktop,Paid Ads,False,
+1309,7,2023-12-15 17:42:14,Desktop,Email Campaign,False,
+1310,62,2023-11-08 17:02:57,Desktop,Referral,False,
+1311,48,2023-10-19 20:53:17,Mobile,Paid Ads,False,
+1312,56,2023-09-16 10:52:47,Mobile,Social Media,False,
+1313,,2023-05-26 08:41:23,Mobile,Email Campaign,False,
+1314,52,2023-01-11 18:02:12,Desktop,Organic Search,False,
+1315,34,2023-10-20 02:31:22,Desktop,Paid Ads,False,
+1316,67,2023-11-15 18:42:34,Tablet,Organic Search,False,
+1317,39,2023-02-15 22:33:44,Desktop,Organic Search,False,
+1318,,2023-09-07 17:20:19,Tablet,Paid Ads,False,
+1319,63,2023-05-26 21:30:41,Desktop,Email Campaign,False,
+1320,59,2023-12-19 17:43:03,Tablet,Social Media,False,
+1321,62,2023-10-26 05:51:09,Tablet,Direct,True,234
+1322,,2023-04-27 13:09:28,Tablet,Social Media,False,
+1323,29,2023-12-14 16:32:10,Mobile,Referral,False,
+1324,,2023-04-22 17:25:33,Desktop,Organic Search,False,
+1325,,2023-01-07 17:36:46,Desktop,Organic Search,False,
+1326,45,2023-05-24 19:12:34,Tablet,Paid Ads,False,
+1327,,2023-11-10 16:16:19,Tablet,Email Campaign,False,
+1328,,2023-10-22 11:39:05,Mobile,Referral,False,
+1329,20,2023-04-01 17:08:06,Desktop,Paid Ads,False,
+1330,43,2023-05-07 12:45:21,Mobile,Direct,True,332
+1331,50,2023-10-27 19:38:19,Mobile,Email Campaign,False,
+1332,41,2023-11-26 17:05:25,Mobile,Direct,False,
+1333,40,2023-12-30 20:23:25,Desktop,Email Campaign,False,
+1334,33,2023-11-07 11:19:31,Desktop,Social Media,True,210
+1335,,2023-09-23 08:58:49,Tablet,Email Campaign,False,
+1336,50,2023-12-03 14:16:26,Mobile,Social Media,True,285
+1337,8,2023-08-09 10:30:05,Desktop,Referral,False,
+1338,32,2023-12-31 14:55:40,Desktop,Social Media,True,333
+1339,33,2023-07-01 17:51:08,Mobile,Direct,False,
+1340,1,2023-10-17 17:57:18,Tablet,Paid Ads,False,
+1341,35,2023-11-14 15:45:32,Tablet,Direct,False,
+1342,,2023-09-09 15:28:19,Tablet,Referral,False,
+1343,30,2023-11-28 21:15:57,Mobile,Social Media,False,
+1344,,2023-10-31 21:31:29,Mobile,Referral,False,
+1345,51,2023-08-23 22:01:22,Tablet,Referral,False,
+1346,16,2023-08-27 11:04:13,Mobile,Referral,True,15
+1347,33,2023-05-23 11:04:33,Tablet,Organic Search,False,
+1348,18,2023-05-15 08:54:23,Tablet,Paid Ads,True,86
+1349,23,2023-11-07 14:13:04,Mobile,Direct,True,75
+1350,47,2023-09-20 06:21:26,Tablet,Direct,False,
+1351,42,2023-11-11 20:04:15,Desktop,Social Media,True,393
+1352,43,2023-09-10 17:44:05,Tablet,Organic Search,False,
+1353,15,2023-06-05 11:43:00,Mobile,Referral,True,286
+1354,11,2023-05-09 11:59:20,Desktop,Organic Search,True,24
+1355,52,2023-06-16 18:38:30,Tablet,Email Campaign,False,
+1356,40,2023-06-04 23:53:36,Mobile,Social Media,False,
+1357,56,2023-11-07 14:15:55,Desktop,Referral,True,82
+1358,64,2023-06-06 15:40:39,Mobile,Referral,False,
+1359,,2023-01-11 10:41:05,Desktop,Organic Search,False,
+1360,,2023-01-16 19:55:10,Tablet,Social Media,False,
+1361,66,2023-09-28 23:48:02,Desktop,Email Campaign,True,359
+1362,7,2023-12-13 08:59:35,Tablet,Direct,False,
+1363,36,2023-12-18 15:29:20,Tablet,Social Media,False,
+1364,,2023-11-15 19:26:32,Desktop,Referral,False,
+1365,,2023-11-26 11:05:28,Mobile,Direct,False,
+1366,,2023-01-13 19:32:50,Mobile,Social Media,False,
+1367,52,2023-11-30 01:36:46,Desktop,Organic Search,False,
+1368,23,2023-09-16 10:16:26,Desktop,Organic Search,False,
+1369,,2023-10-14 16:30:08,Mobile,Email Campaign,False,
+1370,6,2023-10-29 07:55:48,Tablet,Email Campaign,False,
+1371,34,2023-03-28 13:24:17,Tablet,Referral,False,
+1372,23,2023-12-30 10:52:04,Tablet,Email Campaign,True,394
+1373,4,2023-04-04 15:47:39,Mobile,Email Campaign,False,
+1374,,2023-04-01 20:21:33,Desktop,Social Media,False,
+1375,,2023-08-23 19:17:17,Desktop,Paid Ads,False,
+1376,70,2023-10-18 23:05:36,Desktop,Social Media,False,
+1377,,2023-01-23 19:59:29,Mobile,Direct,False,
+1378,11,2023-10-13 08:41:43,Mobile,Email Campaign,False,
+1379,64,2023-08-03 07:52:00,Desktop,Paid Ads,False,
+1380,,2023-05-16 20:07:53,Tablet,Email Campaign,False,
+1381,16,2023-09-18 15:35:30,Mobile,Organic Search,False,
+1382,54,2023-10-20 19:57:33,Desktop,Organic Search,False,
+1383,,2023-09-06 18:25:11,Desktop,Social Media,False,
+1384,38,2023-11-14 09:03:17,Mobile,Direct,False,
+1385,59,2023-12-02 17:11:58,Desktop,Paid Ads,True,92
+1386,54,2023-12-20 19:41:58,Mobile,Email Campaign,False,
+1387,20,2023-06-27 08:44:30,Mobile,Direct,False,
+1388,68,2023-02-13 15:50:44,Mobile,Social Media,False,
+1389,14,2023-09-11 11:44:45,Tablet,Paid Ads,False,
+1390,,2023-01-08 03:50:24,Mobile,Organic Search,False,
+1391,67,2023-11-26 14:47:10,Tablet,Social Media,True,147
+1392,29,2023-12-23 12:55:53,Desktop,Organic Search,False,
+1393,42,2023-08-02 08:18:06,Tablet,Direct,True,160
+1394,14,2023-01-24 16:49:26,Tablet,Direct,False,
+1395,40,2023-06-22 18:37:38,Mobile,Social Media,True,58
+1396,,2023-12-09 19:59:25,Mobile,Paid Ads,False,
+1397,61,2023-09-30 12:50:50,Tablet,Organic Search,False,
+1398,,2023-06-04 19:05:19,Desktop,Paid Ads,False,
+1399,56,2023-01-15 23:34:15,Desktop,Email Campaign,True,85
+1400,65,2023-07-21 21:43:06,Desktop,Social Media,True,350

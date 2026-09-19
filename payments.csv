@@ -1,0 +1,209 @@
+payment_id,order_id,payment_date,payment_method,amount_paid,payment_status
+1,1,2023-12-15,Cash on Delivery,1150.11,Refunded
+2,2,2023-01-02,Bank Transfer,1573.8,Paid
+3,3,2023-12-12,PayPal,1955.35,Paid
+4,4,2023-04-13,Bank Transfer,259.6,Paid
+5,5,2023-11-09,Cash on Delivery,325.56,Paid
+6,7,2023-07-02,Cash on Delivery,108.86,Paid
+7,8,2023-08-08,Debit Card,469.64,Paid
+8,9,2023-05-10,Bank Transfer,162.78,Paid
+9,10,2023-10-23,Debit Card,2387.74,Refunded
+10,11,2023-05-08,PayPal,983.92,Paid
+11,12,2023-11-09,Bank Transfer,473.05,Paid
+12,13,2023-03-19,Credit Card,1743.21,Paid
+13,14,2023-08-27,Bank Transfer,345.6,Paid
+14,15,2023-10-28,Bank Transfer,435.44,Refunded
+15,16,2023-01-05,Bank Transfer,1046.12,Paid
+16,17,2023-08-12,PayPal,289.14,Paid
+17,18,2023-12-15,Debit Card,732.04,Paid
+18,19,2023-08-10,Bank Transfer,1537.05,Paid
+19,20,2023-07-16,Cash on Delivery,1398.6,Paid
+20,21,2023-11-30,Bank Transfer,382.98,Paid
+21,23,2023-04-22,Debit Card,1024.7,Paid
+22,24,2023-10-25,Credit Card,1424.22,Paid
+23,25,2023-11-10,PayPal,319.66,Paid
+24,26,2023-10-19,Bank Transfer,881.32,Paid
+25,27,2023-07-10,Bank Transfer,1763.5,Paid
+26,28,2023-04-02,Bank Transfer,1817.63,Refunded
+27,29,2023-05-08,Cash on Delivery,459.68,Paid
+28,31,2023-09-01,PayPal,386.63,Paid
+29,32,2024-01-01,Cash on Delivery,1644.68,Paid
+30,33,2023-07-29,Debit Card,883.09,Refunded
+31,34,2023-09-30,PayPal,1956.76,Paid
+32,35,2023-03-03,Bank Transfer,443.8,Refunded
+33,36,2023-09-06,PayPal,2005.01,Paid
+34,37,2023-01-10,Bank Transfer,1388.6,Refunded
+35,38,2023-05-28,Debit Card,1032.62,Paid
+36,39,2023-11-07,Bank Transfer,1826.96,Paid
+37,40,2023-11-03,Bank Transfer,2644.27,Paid
+38,41,2023-08-09,Credit Card,229.17,Paid
+39,42,2023-05-05,Debit Card,1886.14,Paid
+40,43,2023-05-27,Cash on Delivery,1973.0,Refunded
+41,44,2023-03-18,Cash on Delivery,1025.3,Paid
+42,45,2023-10-19,Bank Transfer,1147.17,Paid
+43,46,2023-11-05,Debit Card,651.2,Paid
+44,47,2023-12-12,PayPal,1380.34,Paid
+45,48,2023-05-25,Credit Card,1623.63,Paid
+46,49,2023-03-25,Bank Transfer,1247.6,Paid
+47,50,2023-05-10,PayPal,156.72,Paid
+48,51,2023-09-21,PayPal,720.52,Paid
+49,52,2023-01-30,Debit Card,1889.68,Paid
+50,53,2023-10-12,Bank Transfer,760.76,Paid
+51,54,2023-07-29,Credit Card,276.25,Paid
+52,58,2023-10-04,Cash on Delivery,1634.06,Paid
+53,59,2023-04-08,Cash on Delivery,811.22,Refunded
+54,60,2023-06-13,Cash on Delivery,1081.01,Refunded
+55,61,2023-11-01,Bank Transfer,79.75,Paid
+56,62,2023-09-06,Credit Card,529.85,Paid
+57,63,2023-05-17,Cash on Delivery,1377.46,Paid
+58,64,2024-01-02,Credit Card,94.78,Paid
+59,65,2023-11-21,Debit Card,159.5,Refunded
+60,66,2023-06-05,PayPal,108.43,Paid
+61,67,2023-07-03,Cash on Delivery,1450.52,Paid
+62,69,2023-11-24,Cash on Delivery,742.28,Paid
+63,71,2023-07-18,Bank Transfer,1338.03,Paid
+64,72,2023-12-16,Bank Transfer,1626.31,Paid
+65,74,2023-11-18,Credit Card,216.76,Refunded
+66,75,2023-10-24,PayPal,1666.04,Paid
+67,76,2023-04-13,Cash on Delivery,2701.23,Paid
+68,77,2023-11-03,Cash on Delivery,1390.01,Paid
+69,78,2023-07-24,Cash on Delivery,1160.22,Paid
+70,79,2023-11-25,Cash on Delivery,476.44,Paid
+71,81,2023-01-20,Bank Transfer,1835.91,Paid
+72,83,2023-01-18,Bank Transfer,913.42,Refunded
+73,84,2023-11-28,Cash on Delivery,375.81,Paid
+74,85,2023-03-06,Cash on Delivery,906.39,Paid
+75,86,2023-10-17,PayPal,217.72,Paid
+76,87,2023-07-11,Bank Transfer,295.76,Paid
+77,88,2023-03-16,PayPal,1435.6,Paid
+78,89,2023-04-01,Credit Card,315.44,Paid
+79,90,2023-03-13,Debit Card,497.12,Refunded
+80,92,2023-07-26,PayPal,193.72,Paid
+81,93,2023-12-27,Bank Transfer,1486.52,Paid
+82,95,2023-12-02,Cash on Delivery,2748.88,Refunded
+83,96,2023-02-19,PayPal,1423.28,Paid
+84,97,2023-10-03,Credit Card,971.98,Paid
+85,98,2023-11-01,Bank Transfer,590.01,Paid
+86,100,2023-04-27,Credit Card,892.13,Paid
+87,101,2023-12-27,Credit Card,938.24,Paid
+88,102,2023-06-17,Credit Card,586.24,Refunded
+89,103,2023-08-03,PayPal,706.73,Paid
+90,104,2023-03-24,Credit Card,3641.89,Paid
+91,105,2023-09-22,Debit Card,916.2,Paid
+92,107,2023-04-21,Debit Card,785.34,Paid
+93,108,2023-02-23,Debit Card,1143.58,Paid
+94,109,2023-01-24,Debit Card,81.39,Paid
+95,111,2023-06-17,Cash on Delivery,2796.75,Paid
+96,112,2023-08-06,Bank Transfer,771.83,Refunded
+97,113,2023-10-02,Bank Transfer,819.05,Paid
+98,114,2023-05-14,Debit Card,527.07,Paid
+99,115,2023-11-18,Bank Transfer,1751.87,Paid
+100,116,2023-09-08,Credit Card,1191.83,Paid
+101,117,2023-12-21,Cash on Delivery,998.94,Paid
+102,118,2023-10-22,Bank Transfer,398.28,Paid
+103,119,2023-10-30,Bank Transfer,1184.99,Paid
+104,122,2023-06-24,Credit Card,2011.69,Refunded
+105,124,2023-12-04,Debit Card,1957.07,Refunded
+106,125,2023-12-26,PayPal,1992.32,Paid
+107,126,2023-06-26,Credit Card,1220.13,Paid
+108,127,2023-06-24,Credit Card,1466.15,Paid
+109,128,2023-11-09,Debit Card,2101.12,Paid
+110,129,2023-10-21,PayPal,944.08,Paid
+111,130,2023-05-09,Bank Transfer,1357.33,Paid
+112,132,2023-06-28,PayPal,2009.45,Paid
+113,133,2023-01-17,Bank Transfer,512.13,Paid
+114,134,2023-03-18,PayPal,786.68,Paid
+115,135,2023-03-15,Bank Transfer,1085.2,Paid
+116,137,2023-11-26,Bank Transfer,1487.84,Paid
+117,138,2023-11-13,Credit Card,647.14,Paid
+118,139,2023-07-18,PayPal,2196.37,Paid
+119,140,2023-08-20,Cash on Delivery,440.66,Paid
+120,141,2023-12-03,PayPal,117.54,Refunded
+121,142,2023-01-25,Cash on Delivery,1329.24,Paid
+122,143,2023-08-23,Debit Card,1099.8,Paid
+123,144,2023-01-20,Credit Card,857.66,Paid
+124,145,2023-03-05,PayPal,1116.57,Paid
+125,146,2023-09-12,Debit Card,2615.12,Refunded
+126,147,2023-06-01,Debit Card,879.36,Paid
+127,148,2023-06-03,Bank Transfer,1619.89,Paid
+128,150,2023-11-09,Cash on Delivery,1641.67,Refunded
+129,151,2023-03-20,Cash on Delivery,1958.8,Refunded
+130,152,2023-05-24,Bank Transfer,235.52,Paid
+131,153,2023-09-23,Bank Transfer,1263.59,Paid
+132,154,2023-02-09,Cash on Delivery,409.96,Paid
+133,155,2023-06-29,Debit Card,595.74,Refunded
+134,156,2023-06-05,Debit Card,515.69,Paid
+135,157,2023-04-26,PayPal,506.93,Paid
+136,160,2023-12-28,Debit Card,475.52,Paid
+137,161,2023-09-16,Bank Transfer,226.94,Paid
+138,162,2023-03-28,Credit Card,1475.3,Paid
+139,166,2023-11-02,Credit Card,426.08,Refunded
+140,167,2023-09-06,Debit Card,723.17,Paid
+141,168,2023-06-13,Bank Transfer,781.25,Refunded
+142,169,2024-01-02,Cash on Delivery,828.55,Paid
+143,170,2023-11-14,Bank Transfer,536.42,Paid
+144,171,2023-03-24,Bank Transfer,1742.54,Paid
+145,172,2023-01-27,Bank Transfer,1288.9,Paid
+146,173,2023-05-17,Debit Card,942.92,Refunded
+147,174,2023-10-15,Cash on Delivery,2199.15,Paid
+148,175,2023-11-16,Debit Card,2333.83,Refunded
+149,176,2023-01-22,Credit Card,236.58,Paid
+150,179,2023-11-20,Debit Card,664.32,Refunded
+151,180,2023-12-21,PayPal,622.12,Refunded
+152,181,2023-12-02,Bank Transfer,2915.14,Paid
+153,182,2023-10-23,Bank Transfer,48.96,Refunded
+154,183,2023-06-12,Cash on Delivery,675.24,Paid
+155,184,2023-11-10,Cash on Delivery,341.42,Paid
+156,186,2023-12-30,PayPal,2244.56,Paid
+157,187,2023-06-04,PayPal,1377.17,Paid
+158,189,2023-03-18,Credit Card,196.67,Paid
+159,190,2023-11-12,Bank Transfer,789.62,Refunded
+160,192,2023-09-01,Debit Card,914.82,Paid
+161,193,2023-09-02,Credit Card,916.59,Paid
+162,194,2023-02-02,Debit Card,173.94,Paid
+163,195,2023-01-21,Credit Card,714.72,Paid
+164,198,2023-08-24,PayPal,860.06,Refunded
+165,199,2023-11-10,Credit Card,1282.85,Paid
+166,200,2023-06-16,Credit Card,611.68,Paid
+167,201,2023-12-31,Debit Card,992.47,Paid
+168,202,2023-05-03,Cash on Delivery,244.17,Paid
+169,203,2023-07-29,PayPal,1081.17,Refunded
+170,204,2023-03-22,Cash on Delivery,2334.09,Paid
+171,206,2023-10-04,Bank Transfer,671.0,Paid
+172,207,2023-04-16,Cash on Delivery,1705.88,Refunded
+173,208,2023-08-25,Debit Card,805.43,Refunded
+174,209,2023-06-04,Credit Card,1267.37,Paid
+175,210,2023-07-31,PayPal,417.63,Paid
+176,211,2023-07-17,PayPal,1670.6,Paid
+177,213,2023-08-28,Cash on Delivery,2355.65,Refunded
+178,214,2023-12-25,PayPal,519.2,Refunded
+179,215,2023-07-20,PayPal,554.81,Paid
+180,216,2023-12-12,Cash on Delivery,191.49,Refunded
+181,217,2023-10-11,Cash on Delivery,1365.38,Paid
+182,218,2023-03-17,Credit Card,2435.0,Refunded
+183,219,2023-12-10,Bank Transfer,1915.58,Paid
+184,220,2023-12-29,PayPal,2357.84,Paid
+185,221,2023-06-21,Debit Card,239.25,Refunded
+186,222,2023-10-04,Debit Card,932.52,Refunded
+187,223,2023-02-07,Debit Card,1762.51,Paid
+188,224,2023-09-30,PayPal,315.16,Refunded
+189,225,2023-05-05,Bank Transfer,2634.11,Refunded
+190,226,2023-05-15,Debit Card,1503.89,Paid
+191,227,2023-10-18,PayPal,636.1,Paid
+192,229,2023-12-04,Bank Transfer,1143.98,Refunded
+193,230,2023-07-01,Bank Transfer,912.34,Paid
+194,231,2023-10-05,Credit Card,237.28,Refunded
+195,232,2023-10-02,Cash on Delivery,108.86,Paid
+196,233,2023-03-14,PayPal,582.81,Paid
+197,234,2023-09-18,PayPal,1263.47,Paid
+198,236,2023-08-12,Bank Transfer,474.56,Paid
+199,238,2023-12-18,Cash on Delivery,86.97,Paid
+200,239,2023-07-27,Credit Card,841.9,Paid
+201,240,2023-08-13,Bank Transfer,861.79,Refunded
+202,244,2023-03-15,PayPal,301.89,Paid
+203,245,2023-02-20,Cash on Delivery,1209.07,Paid
+204,246,2023-11-22,Debit Card,2637.42,Paid
+205,247,2023-11-14,Debit Card,788.86,Paid
+206,248,2023-07-15,PayPal,525.51,Refunded
+207,249,2023-02-17,PayPal,789.95,Paid
+208,250,2023-04-07,Cash on Delivery,1050.72,Paid
